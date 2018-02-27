@@ -3,7 +3,7 @@
 [Tau Station](https://alpha.taustation.space/) is an online RPG set in the
 future in space, in a post-catastrophic environment.
 
-I am/was a tester in the closed alpha testing phase, and want to document the
+I was a tester in the closed alpha testing phase, and want to document the
 things I wished I knew before I started.
 
 Note that Tau Station is under active development. Hence, parts of this
@@ -25,7 +25,7 @@ You can earn credits through
 * selling items (for example found in the Ruins)
 * daily career payments
 * side jobs
-* anonymous work
+* discreet work
 * levelling up
 * missions (though most missions don't pay well financially)
 
@@ -37,6 +37,7 @@ playing easier or faster:
 * VIP packs
 * accelerating University courses
 * boosting training
+* bribing for extra rations
 * faster release from the Brig (prison) and Sick Bay
 * faster shuttle travel
 
@@ -57,7 +58,7 @@ You can obtain bonds in the following ways:
 
 Whenever you try something, and the success is not a foregone
 conclusion, you use up some of your *Focus*, and one of the five
-*stats*: Strength, Agility, Stamina, Intelligence, Focus.
+*stats*: Strength, Agility, Stamina, Intelligence, Social.
 
 ### Stats Regeneration
 
@@ -149,8 +150,8 @@ which leads to every movement costing some strength, and likely reduced
 success rates for certain tasks.
 
 If you don't want to carry around stuff, you can sell it (go to Market
--> Vendors and then your Inventory), store it (go to Market -> Storage,
-buy storage if you haven't yet and then your Inventory), or drop them
+-> Vendors and then to your Inventory), store it (go to Market -> Storage,
+buy storage if you haven't yet and then to your Inventory), or drop them
 right from the Inventory.
 
 ### Pursue a Career
@@ -190,7 +191,7 @@ missed advancing your career.
 
 You advance your career by succeeding at career tasks. You go to
 different areas of the station, and click on the "Tasks" tab, and then
-attempt some tasks. Each success adds some about of career experience to
+attempt some tasks. Each success adds some amount of career experience to
 a hidden account, and each failure subtracts some amount.
 
 Each night at GCT 0/0, the number days you spent in a career rank
@@ -218,20 +219,42 @@ lift heavy stuff, right?
 
 Side jobs are brief, one-off jobs that pay a fixed reward. They consist
 of tests against the same stat until you have passed five of them. They
-pay less than career tasks, put give you more experience.
+pay less than career tasks, but give you more experience.
 
 The available side jobs and their pay depend on the station.
 
-### Anonymous Work
+### Discreet Work
 
-To do.
+*Discreet Work* aka *Anonymous Missions* are automatically generated
+missions that, on completion, give you a small amount of credits, and
+more importantly, a random bonus. This bonus can be
+
+* more credits
+* an increase in one stat
+* a weapon or armour
+* a bond package
+* a ration
+* a VIP packs
+
+Completing discreet work also approves your reputation with the
+affiliation of the government that controls the current station, which
+in turn leads to shorter Brig times when you get caught doing something
+illegal.
+
+Some of the anonymous missions involve stealing an item from somebody,
+and bringing it to somebody else. Between those two actions, the item
+is in your own inventory, and you can steal it by aborting the mission.
+The only repercussion is that after aborting an anonymous mission, you
+won't be offered a new one for a while. For valuable items such as
+rations, bond packages or VIP packs, this is usually worth it.
 
 ## University Courses
 
 University courses can teach you handy skills. You have to pay some
 credits to enroll in one, and can optionally spend bonds to speed them
 up. The basic courses are relatively cheap and fast, while more advanced
-courses take much longer, and can cost up to 42,500 credits.
+courses take much longer, and can cost up to several ten thousand
+credits.
 
 You can only be enrolled in one course at a time, and you cannot abort a
 course that you started.
@@ -262,10 +285,47 @@ The following modules are available, grouped by station:
     * Combat: Combat Basics, Advanced Combat, Special Ops
     * Engineering: Electronics
 
+## VIP Packs
+
+VIP packs provide many benefits, documented
+[here](https://taustation.space/blog/shop-grand-opening-next-steps/).
+The most important ones are 150%, much faster stats regeneration, and
+larger experience gains.
+
+Playing with an active VIP pack is significantly more fun and more
+efficient. When you first use one, all your stats go to 100%, so it
+makes sense to exhaust your stats through career tasks or so before you
+use one.
+
+The following are sources of VIP packs:
+
+* You can buy them in the shop
+* You can buy a 3-day VIP pack every 7 days at the Market, for 290 bonds
+* You can find VIP packs in the ruins
+* Sometimes, the random reward for discreet work can be a VIP pack
+
 ## Combat
 
 To do.
 
 ## Travel
+
+You can travel from station to station within a solar system through
+local shuttles. If you want to travel to a station in another solar
+system, you first need to travel to a jump gate, from there to the other
+solar system's jump gate, and from there to the station you want.
+
+Travel depends on the distance between stations, which varies depending
+on the current orbital positions.
+
+You can't do anything except training intelligence during travels, but
+stats and focus slowly regenerate. So before longer journeys, it makes
+sense to use up your current stats for career tasks.
+
+While planning your travel, be aware that hotel rooms cost more at
+higher-level stations, and that shifting orbit positions can make the
+travel back more expensive.
+
+## Player and Station Levels
 
 To do.
