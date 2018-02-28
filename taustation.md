@@ -194,9 +194,10 @@ different areas of the station, and click on the "Tasks" tab, and then
 attempt some tasks. Each success adds some amount of career experience to
 a hidden account, and each failure subtracts some amount.
 
-Each night at GCT 0/0, the number days you spent in a career rank
+Each night at GCT 0/0 (which coincides with midnight UTC), the number of days
+you spent in a career rank
 increases. Once your career account balance is high enough (whatever
-that means) *and* you spent enough days in the current career rank, you
+that means) *and* you have spent enough days in the current career rank, you
 are promoted. (If you fail enough tasks, you can also be demoted again).
 Also at midnight you receive your regular payments of bonds and credits,
 depending on your current career level.
@@ -329,3 +330,4 @@ travel back more expensive.
 ## Player and Station Levels
 
 To do.
+
