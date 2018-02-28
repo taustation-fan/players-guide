@@ -1,7 +1,7 @@
 # An Introduction to Tau Station
 
-[Tau Station](https://alpha.taustation.space/) is an online RPG set in the
-future in space, in a post-catastrophic environment.
+[Tau Station](https://alpha.taustation.space/) is a text-based online RPG set
+in the future in space, in a post-catastrophic environment.
 
 I was a tester in the closed alpha testing phase, and want to document the
 things I wished I knew before I started.
@@ -196,7 +196,7 @@ a hidden account, and each failure subtracts some amount.
 
 Each night at GCT 0/0 (which coincides with midnight UTC), the number of days
 you spent in a career rank
-increases. Once your career account balance is high enough (whatever
+increases. Once your career experience is high enough (whatever
 that means) *and* you have spent enough days in the current career rank, you
 are promoted. (If you fail enough tasks, you can also be demoted again).
 Also at midnight you receive your regular payments of bonds and credits,
@@ -206,7 +206,7 @@ Career tasks use up 20% of the affected stat, and 5% focus. On success,
 you get a bonus in credits, which is the primary source of most player's
 credit wealth.
 
-As your hidden career account balance increases and/or you are promoted,
+As your hidden career experience increases and/or you are promoted,
 more difficult career tasks become achievable. In general, you should
 try career tasks where your success rate is higher than 50%. If your
 success rate is higher than 80% or 90%, you might try more difficult
