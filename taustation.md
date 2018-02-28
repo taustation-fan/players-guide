@@ -237,6 +237,11 @@ more importantly, a random bonus. This bonus can be
 * a ration
 * a VIP packs
 
+In most cases, the potential rewards depends on the station level. For
+example on Taungoo Station (level 5), the stats boost tends to be on the
+order of 0.02, while you get something closer to 0.04 on Yards of Gadani
+(level 10).
+
 Completing discreet work also approves your reputation with the
 affiliation of the government that controls the current station, which
 in turn leads to shorter Brig times when you get caught doing something
@@ -327,7 +332,43 @@ While planning your travel, be aware that hotel rooms cost more at
 higher-level stations, and that shifting orbit positions can make the
 travel back more expensive.
 
+You need a Gaule visa for visiting stations under the Gaule government
+(basically any station with French sounding names). As a VIP, you can
+buy a Gaule visa at any station's Gov't center. Otherwise, you need to
+buy it a Gaule Embassy on Tau Station (Sol) or Spirit of Botswana (Alpha
+Centauri).
+
 ## Player and Station Levels
 
-To do.
+All players start from level 1, and gain experience through
 
+* missions
+* side jobs
+* career tasks
+* discreet work
+
+When you reach 100% experience of the current career level, you ascend
+to the next level. On leveling up, you receive a small bonus in credits.
+
+Each block of five levels is called a *tier*, and ascending to a higher
+tier also gives a bonus of 500 bonds.
+
+Leveling up also gives you access to more missions, which have minimal
+player levels as prerequisites.
+
+Stations have levels too. You can enter stations with a higher level
+than your own player level, and perform career tasks, train in the gym,
+train your intelligence in the hotel room, or social in the lounge,
+provided that the relevant stat is high enough. You won't be able to do
+missions, anonymous work or side jobs though.
+
+Higher-level stations generally
+
+* have higher yields for stats training
+* tend to have higher limits for safe stats training
+* let you find more valuable weapons and armor in the Ruins
+* have more expensive hotel rooms
+* have higher-paying side jobs and discreet work
+
+All of these factors combined mean that, as long as you are not playing
+missions, it makes sense to spend your time on higher-level stations.
