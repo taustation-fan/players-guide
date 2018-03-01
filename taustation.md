@@ -316,10 +316,10 @@ The following are sources of VIP packs:
 
 ## Travel
 
-You can travel from station to station within a solar system through
-local shuttles. If you want to travel to a station in another solar
+You can travel from station to station within a star system through
+local shuttles. If you want to travel to a station in another star
 system, you first need to travel to a jump gate, from there to the other
-solar system's jump gate, and from there to the station you want.
+star system's jump gate, and from there to the station you want.
 
 Travel depends on the distance between stations, which varies depending
 on the current orbital positions.
