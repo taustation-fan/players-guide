@@ -72,6 +72,8 @@ rate of regeneration if higher if:
 * you have completed one of the "Anatomy" University courses, available
   on the Nouveau Limoges station
 
+Regeneration is slower if you are confined to the Sick Bay or the Brig.
+
 ### Stats Improvement
 
 Most stations (all except the jump gates) feature a Gym, where you can
@@ -146,8 +148,7 @@ The things you can find in the ruins include (in decreasing likelihood):
 
 You can carry around what you find, up to a certain mass limit. If you
 carry around too much, you will get a warning that your are encumbered,
-which leads to every movement costing some strength, and likely reduced
-success rates for certain tasks.
+and lower success rates for tests against the physical stats.
 
 If you don't want to carry around stuff, you can sell it (go to Market
 -> Vendors and then to your Inventory), store it (go to Market -> Storage,
@@ -310,10 +311,6 @@ The following are sources of VIP packs:
 * You can find VIP packs in the ruins
 * Sometimes, the random reward for discreet work can be a VIP pack
 
-## Combat
-
-To do.
-
 ## Travel
 
 You can travel from station to station within a solar system through
@@ -372,3 +369,11 @@ Higher-level stations generally
 
 All of these factors combined mean that, as long as you are not playing
 missions, it makes sense to spend your time on higher-level stations.
+
+## Combat
+
+To do.
+
+## Clones
+
+To do.
