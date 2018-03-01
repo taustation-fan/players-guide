@@ -3,8 +3,11 @@
 [Tau Station](https://alpha.taustation.space/) is a text-based online RPG set
 in the future in space, in a post-catastrophic environment.
 
-I was a tester in the closed alpha testing phase, and want to document the
+I (moritz) was a tester in the closed alpha testing phase, and want to document the
 things I wished I knew before I started.
+
+This document also contains corrections and contributions from Perleone,
+Shadow, Dotsent and Ovid.
 
 Note that Tau Station is under active development. Hence, parts of this
 document might become outdated when the game changes.
