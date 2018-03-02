@@ -151,7 +151,8 @@ The things you can find in the ruins include (in decreasing likelihood):
 
 You can carry around what you find, up to a certain mass limit. If you
 carry around too much, you will get a warning that your are encumbered,
-and lower success rates for tests against the physical stats.
+and lower success rates for tests against the physical stats, and moving
+to a different area of the station reduces the physical stats.
 
 If you don't want to carry around stuff, you can sell it (go to Market
 -> Vendors and then to your Inventory), store it (go to Market -> Storage,
@@ -195,8 +196,8 @@ missed advancing your career.
 
 You advance your career by succeeding at career tasks. You go to
 different areas of the station, and click on the "Tasks" tab, and then
-attempt some tasks. Each success adds some amount of career experience to
-a hidden account, and each failure subtracts some amount.
+attempt some tasks. Each success adds up to your career experience,
+and each failure subtracts some amount.
 
 Each night at GCT 0/0 (which coincides with midnight UTC), the number of days
 you spent in a career rank
@@ -214,7 +215,8 @@ As your hidden career experience increases and/or you are promoted,
 more difficult career tasks become achievable. In general, you should
 try career tasks where your success rate is higher than 50%. If your
 success rate is higher than 80% or 90%, you might try more difficult
-tasks (which are those further down the list).
+tasks (which are those further down the list), because they yield higher
+returns.
 
 Another factor in the success rate of career tasks is the maximum value
 of the stat that is tested. Training your strength makes it easier to
@@ -246,7 +248,7 @@ example on Taungoo Station (level 5), the stats boost tends to be on the
 order of 0.02, while you get something closer to 0.04 on Yards of Gadani
 (level 10).
 
-Completing discreet work also approves your reputation with the
+Completing discreet work also improves your reputation with the
 affiliation of the government that controls the current station, which
 in turn leads to shorter Brig times when you get caught doing something
 illegal.
@@ -299,7 +301,7 @@ The following modules are available, grouped by station:
 
 VIP packs provide many benefits, documented
 [here](https://taustation.space/blog/shop-grand-opening-next-steps/).
-The most important ones are 150%, much faster stats regeneration, and
+The most important ones are 150% focus, much faster stats regeneration, and
 larger experience gains.
 
 Playing with an active VIP pack is significantly more fun and more
@@ -344,6 +346,7 @@ All players start from level 1, and gain experience through
 
 * missions
 * side jobs
+* finding things in the Ruins
 * career tasks
 * discreet work
 
