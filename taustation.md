@@ -382,7 +382,29 @@ missions, it makes sense to spend your time on higher-level stations.
 
 ## Combat
 
-To do.
+You can attack players and NPCs, and other players can attack you.
+
+When you try to attack somebody, there is a chance that Security detains
+you. The chance depends on the Orwellian level of the station (which you
+can find in the Government Center), and the length of the stay in the
+Brig depends on the law level. Tau Station is super paranoid, and you
+can't ever attack somebody successfully there.
+
+You can wear an armour suit, and have up to two weapons. There are three
+kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
+accuracy, and one or sometimes two kinds of damage they make.
+
+The success of an attack depends on the physical stats (mostly Stamina,
+I think), the accuracy of the weapon, and combat skills (which can be
+acquired through University courses).
+
+A successful attack can damage the opponent's armor, and then wound the
+opponent, which reduces a physical stat. Once a physical stat drops to
+zero, the loser becomes unconscious, and can be looted by the winner.
+
+On stations with a Sick Bay, the loser can then recover in the Sick Bay.
+On stations without a Sick Bay, this can be the character's death. Which
+hopefully triggers the activation of a clone.
 
 ## Clones
 
