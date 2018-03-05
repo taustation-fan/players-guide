@@ -24,7 +24,7 @@ rooms, public shuttles for inter-station travel, University courses, and weapons
 
 You can earn credits through
 
-* career tasks
+* successful career tasks
 * selling items (for example found in the Ruins)
 * daily career payments
 * side jobs
@@ -46,7 +46,7 @@ playing easier or faster:
 
 This list is roughly sorted by the utility. VIP packs and accelerated
 University courses are a pretty good way to spend bonds, while I'd only
-use bonds for the other purposes if there was a pretty good reason.
+use bonds for the other purposes if there was a very good reason.
 
 You can obtain bonds in the following ways:
 
@@ -66,7 +66,7 @@ conclusion, you use up some of your *Focus*, and one of the five
 ### Stats Regeneration
 
 Every five Minutes, your Focus and stats automatically regenerate. The
-rate of regeneration if higher if:
+rate of regeneration is higher if:
 
 * you are currently a VIP
 * you are "well fed" from consuming a ration earlier
@@ -76,6 +76,10 @@ rate of regeneration if higher if:
   on the Nouveau Limoges station
 
 Regeneration is slower if you are confined to the Sick Bay or the Brig.
+
+Consuming a VIP package or a ration and levelling up immediately
+regenerates your stats and focus full. (With rations, the regeneration
+is only complete if the ration is of the same tier as yourself).
 
 ### Stats Improvement
 
