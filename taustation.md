@@ -403,9 +403,27 @@ opponent, which reduces a physical stat. Once a physical stat drops to
 zero, the loser becomes unconscious, and can be looted by the winner.
 
 On stations with a Sick Bay, the loser can then recover in the Sick Bay.
-On stations without a Sick Bay, this can be the character's death. Which
-hopefully triggers the activation of a clone.
+On stations without a Sick Bay, this can be the death of the character's
+body. Which hopefully triggers the activation of a clone.
 
 ## Clones
 
-To do.
+*Note: this section is a bit conjectural, because I have not yet had the
+need to activate a clone.*
+
+A clone is an insurance against the death of a character's body. You can
+buy a clone at the cloning facilities that are present on nearly all
+stations.
+
+The mental model behind a clone is that it is an inactive
+duplicate of the character's body, and receives all experience and
+knowledge as a constant feed from the active body. Once the active body
+dies, the newest clone is activated. So the character keeps its
+*intelligence* and *social* stats, but reverts back to the physical
+stats of the clone.
+
+3D-printed clones can be bought with credits, with the cost dependent on
+the player's level. *Premium* clones cost a flat rate of 100 bonds, and
+offer the advantage that you can later update them to your current
+physical stats. The update cost depends on the number of premium clones
+and the difference in level between the clones and the active body.
