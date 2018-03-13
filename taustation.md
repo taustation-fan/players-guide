@@ -81,6 +81,23 @@ Consuming a VIP package or a ration and levelling up immediately
 regenerates your stats and focus full. (With rations, the regeneration
 is only complete if the ration is of the same tier as yourself).
 
+The following recovery rates have been compiled by [Shadow and Dotsent](https://alpha.taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/197-53-01-501-stat-recovery):
+
+|Booster                               | Focus/%   | Stats/% |
+|--------------------------------------|-----------|---------|
+| None                                 | 3         | 3       |
+| Hotel                                | 4         | 4       |
+| Well Fed                             | 4         | 4       |
+| Hotel + Well Fed                     | 5         | 4       |
+| Hotel + Healthcare 2                 | 4         | 5       |
+| VIP                                  | 6         | 6       |
+| VIP + Hotel                          | 10..11    | 6..7    |
+| VIP + Well Fed                       | 12..13    | 8       |
+| VIP + Well Fed + Hotel               | 12..13    | 8..9    |
+| VIP + Well Fed + Hotel + Healtchare 1| 14..15    | 9..10   |
+| VIP + Well Fed + Hotel + Healtchare 2| 16..18    | 11      |
+| VIP + Well Fed + Hotel + Healtchare 3| 16..18    | 12      |
+
 ### Stats Improvement
 
 Most stations (all except the jump gates) feature a Gym, where you can
