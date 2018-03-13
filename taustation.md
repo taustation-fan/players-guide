@@ -90,6 +90,7 @@ The following recovery rates have been compiled by [Shadow and Dotsent](https://
 | Well Fed                             | 4         | 4       |
 | Hotel + Well Fed                     | 5         | 4       |
 | Hotel + Healthcare 2                 | 4         | 5       |
+| Hotel + Well Fed + Healthcare 2      | 6..7      | 6..7    |
 | VIP                                  | 6         | 6       |
 | VIP + Hotel                          | 10..11    | 6..7    |
 | VIP + Well Fed                       | 12..13    | 8       |
