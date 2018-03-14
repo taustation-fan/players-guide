@@ -131,6 +131,24 @@ social and the intelligence stat.
 Stats can also randomly increase as a bonus of successfully completed
 anonymous work.
 
+## Rations
+
+You can survive without explicit use of rations. But, each time you
+consume a ration, it immediately fills up all of your stats and your
+Focus. (If you consume a ration of a lower tier than you have, the
+immediate regeneration is incomplete). Rations also give you the "well
+fed" status for 32 segments (roughly 8 hours), which increases stats and
+Focus regeneration.
+
+You are automatically assigned one ration per day, which you can fetch
+at any station's Government Center. You can sometimes find rations in
+the Ruins, and sometimes they are awarded as the random reward for doing
+discreet work.
+
+Finally, you can spend bonds as bribes for more rations, though the
+price doubles each time you do it in one day, and drops back to the
+original price (20 bonds) at midnight.
+
 ## What To Do
 
 As in every RPG, there are several different things you can do, with
@@ -389,8 +407,8 @@ player levels as prerequisites.
 Stations have levels too. You can enter stations with a higher level
 than your own player level, and perform career tasks, train in the gym,
 train your intelligence in the hotel room, or social in the lounge,
-provided that the relevant stat is high enough. You won't be able to do
-missions, anonymous work or side jobs though.
+provided that the relevant stat is high enough. You won't be able to
+start missions, do discreet work or side jobs though.
 
 Higher-level stations generally
 
