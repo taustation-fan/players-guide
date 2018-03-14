@@ -195,7 +195,7 @@ one that sounded best. You should be more strategic in your choice.
 The first factor you should consider is the primary and secondary stat
 associated with the career task. You should favor a career that makes
 use of Intelligence, because in the context of University courses, it
-makes sense to boost that stat.
+makes sense to boost that stat anyway.
 All else being equal, you should avoid careers whose tasks make heavy
 use of stamina, so that you can use your stamina to rummage in the
 Ruins.
@@ -221,13 +221,18 @@ different areas of the station, and click on the "Tasks" tab, and then
 attempt some tasks. Each success adds up to your career experience,
 and each failure subtracts some amount.
 
-Each night at GCT 0/0 (which coincides with midnight UTC), the number of days
+Each night at GCT 0/0 (which coincides with midnight in CET, or UTC+1),
+the number of days
 you spent in a career rank
 increases. Once your career experience is high enough (whatever
 that means) *and* you have spent enough days in the current career rank, you
 are promoted. (If you fail enough tasks, you can also be demoted again).
 Also at midnight you receive your regular payments of bonds and credits,
 depending on your current career level.
+
+The minimum number of career tasks increases exponentially: you can get
+promoted after 2 days in career level 1, after 4 days in level 2, 8 days
+in level 3 etc., all the way up to 128 days in level 7.
 
 Career tasks use up 20% of the affected stat, and 5% focus. On success,
 you get a bonus in credits, which is the primary source of most player's
