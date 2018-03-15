@@ -239,9 +239,8 @@ different areas of the station, and click on the "Tasks" tab, and then
 attempt some tasks. Each success adds up to your career experience,
 and each failure subtracts some amount.
 
-Each night at GCT 0/0 (which coincides with midnight in CET, or UTC+1),
-the number of days
-you spent in a career rank
+Each night at GCT 0/0 (which coincides with midnight UTC on Auld Earth),
+the number of days you spent in a career rank
 increases. Once your career experience is high enough (whatever
 that means) *and* you have spent enough days in the current career rank, you
 are promoted. (If you fail enough tasks, you can also be demoted again).
