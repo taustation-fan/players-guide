@@ -467,3 +467,7 @@ the player's level. *Premium* clones cost a flat rate of 100 bonds, and
 offer the advantage that you can later update them to your current
 physical stats. The update cost depends on the number of premium clones
 and the difference in level between the clones and the active body.
+
+# Resources
+
+* This [Greasemonkey Script](https://gist.github.com/moritz/97aa186cd99daee2b63c82bc9a20bb5a) adds some navigation shortcuts to the menu, and can optionally hide buttons that spend bonds to prevent accidental spending.
