@@ -330,7 +330,7 @@ The following modules are available, grouped by station:
 * Tau Station (Sol)
     * Business: Bureaucracy
     * Combat: Combat Basics, Intermediate Combat, Defensive Tactics
-    * Engineering: Basic Engineering, Electronics
+    * Engineering: Basic Engineering
 * Nouveau Limoges (Sol)
     * Engineering: Basic Engineering
     * Medicine: First Aid, Anatomy
@@ -339,7 +339,6 @@ The following modules are available, grouped by station:
     * Medicine: First Aid
 * Spirit of Botswana (Alpha Centauri)
     * Combat: Combat Basics, Advanced Combat, Special Ops
-    * Engineering: Electronics
 
 ## VIP Packs
 
