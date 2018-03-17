@@ -39,14 +39,15 @@ playing easier or faster:
 
 * VIP packs
 * accelerating University courses
-* boosting training
+* premium clones
 * bribing for extra rations
+* boosting training
 * faster release from the Brig (prison) and Sick Bay
 * faster shuttle travel
 
-This list is roughly sorted by the utility. VIP packs and accelerated
+This list is roughly sorted by utility. VIP packs and accelerated
 University courses are a pretty good way to spend bonds, while I'd only
-use bonds for the other purposes if there was a very good reason.
+use bonds for fast shuttle travel if there was a very good reason.
 
 You can obtain bonds in the following ways:
 
@@ -65,13 +66,12 @@ conclusion, you use up some of your *Focus*, and one of the five
 
 ### Stats Regeneration
 
-Every five Minutes, your Focus and stats automatically regenerate. The
+Every five minutes, your Focus and stats automatically regenerate. The
 rate of regeneration is higher if:
 
 * you are currently a VIP
 * you are "well fed" from consuming a ration earlier
 * you are in your hotel room
-* you have been in your hotel room continually for a while
 * you have completed one of the "Anatomy" University courses, available
   on the Nouveau Limoges station
 
@@ -304,6 +304,9 @@ The only repercussion is that after aborting an anonymous mission, you
 won't be offered a new one for a while. For valuable items such as
 rations, bond packages or VIP packs, this is usually worth it.
 
+Despite the disclaimer of potential danger, Discreet Work has never
+brought me into the Sick Bay or the Brig.
+
 ## University Courses
 
 University courses can teach you handy skills. You have to pay some
@@ -466,6 +469,30 @@ the player's level. *Premium* clones cost a flat rate of 100 bonds, and
 offer the advantage that you can later update them to your current
 physical stats. The update cost depends on the number of premium clones
 and the difference in level between the clones and the active body.
+
+# Tactics, Strategy and Advice
+
+Some random bits of advice on how to make the most of out Tau Station:
+
+* Play the missions for fun and profit!
+* Pick a career that doesn't have Stamina as primary or secondary stat (Medicine or Special Ops)
+* Use your Stamina to search for valuable things in the Ruins. Despite what it says in the area descriptions, the Ruins are not (yet?) dangerous (except for other players attacking you, which can happen in other areas too).
+** Equip the best weapons and armor that you find
+** Store or sell the rest, depending on how badly you need the money
+* As soon as you have reached level 3, strive to spend most of your time on higher-level stations; training your stats is more efficient there, and you find more valuable things in the ruins. 
+* When you are not actively playing, spend your time in a hotel room, which speeds up stats and focus regeneration, and keeps you save from attacks.
+* Missions, Discreet Work and training your stats require more Focus than career tasks and ruins scavenging; so if you are on VIP packs occasionally, do the first-mentioned kinds of things preferably while on VIP, and focus on your career and ruins searching while not a VIP.
+* The Sol Jump Gate has a mission ("The Sleepless Ship") that takes you
+  to Alpha Centauri, so only engage in that mission when you are ready
+  to travel to Alpha Centauri (level 7, most stats at 12 or more; and at
+  least 2000 credits, since an interstellar jump costs around 1800
+  credits, and then you might need to travel to another station before you
+  can earn much money).
+* Only bother with clones after you have put significant effort into
+  training physical stats.
+* If you can, avoid illegal career tasks on Gaule-affiliated stations,
+  since they punish foreigners harsher than the Consortium punishes
+  their own citizens.
 
 # Resources
 
