@@ -96,7 +96,7 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 | VIP                                  | 6         | 6       |            |
 | VIP + Healthcare 2                   | 10..11    | 6..7    | 2018-03-17 |
 | VIP + Hotel                          | 10..11    | 6..7    |            |
-| VIP + Hotel + Healthcare 2           | 13..14    | 9       | 2018-03-17 |
+| VIP + Hotel + Healthcare 2           | 10..14    | 6..9    | 2018-03-17 |
 | VIP + Hotel + Healthcare 3           | 13..14    | 9..10   | 2018-03-17 |
 | VIP + Well Fed                       | 12..13    | 8       |            |
 | VIP + Well Fed + Hotel               | 12..13    | 8..9    |            |
