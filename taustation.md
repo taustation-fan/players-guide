@@ -75,6 +75,8 @@ rate of regeneration is higher if:
 * you have completed one of the "Anatomy" University courses, available
   on the Nouveau Limoges station
 
+Regeneration might be slightly faster if you stay longer in your hotel room.
+
 Regeneration is slower if you are confined to the Sick Bay or the Brig.
 
 Consuming a VIP package or a ration and levelling up immediately
