@@ -348,7 +348,7 @@ The following modules are available, grouped by station:
 * Moissan Station (Alpha Centauri)
     * Medicine: First Aid
 * Spirit of Botswana (Alpha Centauri)
-    * Combat: Combat Basics, Advanced Combat, Special Ops
+    * Combat: Combat Basics, Special Ops
 
 ## VIP Packs
 
@@ -398,6 +398,7 @@ Centauri).
 All players start from level 1, and gain experience through
 
 * missions
+* successful combat
 * side jobs
 * finding things in the Ruins
 * career tasks
