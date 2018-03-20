@@ -447,7 +447,7 @@ missions, it makes sense to spend your time on higher-level stations.
 
 ## Combat
 
-You can attack players and NPCs, and other players can attack you.
+You can attack players and some NPCs, and other players can attack you.
 
 When you try to attack somebody, there is a chance that Security detains
 you. The chance depends on the Orwellian level of the station (which you
@@ -455,7 +455,7 @@ can find in the Government Center), and the length of the stay in the
 Brig depends on the law level. Tau Station is super paranoid, and you
 can't ever attack somebody successfully there.
 
-You can wear an armour suit, and have up to two weapons. There are three
+You can wear an armour suit, and equip up to two weapons. There are three
 kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
 accuracy, and one or sometimes two kinds of damage they make.
 
