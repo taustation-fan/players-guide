@@ -517,6 +517,20 @@ Some random bits of advice on how to make the most of out Tau Station:
   since they punish foreigners harsher than the Consortium punishes
   their own citizens.
 
+# Planned Features
+
+From the [official blog](https://taustation.space/blog/), twitter and statements
+from the Tau Station team, it seems that at least the following major features
+are planned:
+
+* The ability to purchase *private ships*, and use them for travel.
+* The *Electronic Market*, which enables selling items to other players.
+* *Crafting* items, which makes sense if you need something to sell.
+* Player *Syndicates*, cooperations of players that conduct business together.
+* Another star system, *Bernard's Star*, with brand new stations.
+* Prerequisites and Perks for career levels.
+
+
 # Resources
 
 * This [Greasemonkey Script](https://gist.github.com/moritz/97aa186cd99daee2b63c82bc9a20bb5a) adds some navigation shortcuts to the menu, and can optionally hide buttons that spend bonds to prevent accidental spending.
