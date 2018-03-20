@@ -191,7 +191,8 @@ to read and experience.
 
 Most stations have a *Ruins* area, where you can scavenge for discarded
 treasures. Each search costs 10% stamina, and if you find something,
-also 10% of focus. Each successful find also adds to your experience.
+also 10% of focus (15% of focus if you are VIP). Each successful find
+also adds to your experience.
 
 The things you can find in the ruins include (in decreasing likelihood):
 
@@ -204,9 +205,16 @@ The things you can find in the ruins include (in decreasing likelihood):
 * rare trade goods (sell for 5000 credits or more)
 
 You can carry around what you find, up to a certain mass limit. If you
-carry around too much, you will get a warning that your are encumbered,
+carry around too much, you will get a warning that you are encumbered,
 and lower success rates for tests against the physical stats, and moving
 to a different area of the station reduces the physical stats.
+
+If you are at 100% encumbered, you will be losing 10% of each of the
+physical stats with every move to the different area of the station.
+If one of your physical stats reaches 0 because of encumrance, you will
+lose consciousness and be taken to Sick Bay (you may even die if the station
+does not have a Sick Bay!), so try to offload heavy items at the first 
+opportunity.
 
 If you don't want to carry around stuff, you can sell it (go to Market
 -> Vendors and then to your Inventory), store it (go to Market -> Storage,
