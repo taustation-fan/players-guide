@@ -142,10 +142,17 @@ anonymous work.
 
 You can survive without explicit use of rations. But, each time you
 consume a ration, it immediately fills up all of your stats and your
-Focus. (If you consume a ration of a lower tier than you have, the
-immediate regeneration is incomplete). Rations also give you the "well
-fed" status for 32 segments (roughly 8 hours), which increases stats and
-Focus regeneration.
+Focus. 
+
+
+If you consume a ration of a tier one lower than your character's, the
+immediate regeneration is incomplete. A ration two tiers below your
+current tier does not give any immediate regeneration.
+
+Rations also give you the "well fed" status for 32 segments (roughly 8
+hours), which increases stats and Focus regeneration. For rations of a
+lower tier, the "well fed" status is shorter (10 segments for a tier
+difference of two).
 
 You are automatically assigned one ration per day, which you can fetch
 at any station's Government Center. You can sometimes find rations in
