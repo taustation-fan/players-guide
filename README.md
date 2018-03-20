@@ -523,6 +523,7 @@ From the [official blog](https://taustation.space/blog/), twitter and statements
 from the Tau Station team, it seems that at least the following major features
 are planned:
 
+* *PvE* (Player vs. Environment) campaigns for the Ruins.
 * The ability to purchase *private ships*, and use them for travel.
 * The *Electronic Market*, which enables selling items to other players.
 * *Crafting* items, which makes sense if you need something to sell.
