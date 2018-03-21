@@ -490,8 +490,8 @@ stats of the clone.
 3D-printed clones can be bought with credits, with the cost dependent on
 the player's level. *Premium* clones cost a flat rate of 100 bonds, and
 offer the advantage that you can later update them to your current
-physical stats. The update cost depends on the number of premium clones
-and the difference in level between the clones and the active body.
+physical stats. You can spend 20 bonds per clone to update it to your current
+physical stats.
 
 # Tactics, Strategy and Advice
 
@@ -530,6 +530,7 @@ are planned:
 * Player *Syndicates*, cooperations of players that conduct business together.
 * Another star system, *Bernard's Star*, with brand new stations.
 * Prerequisites and Perks for career levels.
+* More missions and artwork.
 
 
 # Resources
