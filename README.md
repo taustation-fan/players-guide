@@ -487,11 +487,30 @@ dies, the newest clone is activated. So the character keeps its
 *intelligence* and *social* stats, but reverts back to the physical
 stats of the clone.
 
-3D-printed clones can be bought with credits, with the cost dependent on
-the player's level. *Premium* clones cost a flat rate of 100 bonds, and
-offer the advantage that you can later update them to your current
-physical stats. You can spend 20 bonds per clone to update it to your current
-physical stats.
+There are currently three types of clones in the game: 3D-printed, vat-grown
+and *Premium*. Even though most of the stations will have Clones facility,
+not all of the stations provide all three types of clones.
+
+3D-printed and vat-grown clones can be bought with credits, with the cost 
+dependent on the player's level. The main differences between them are:
+* 3D-printed clones are around 50% cheaper than vat-grown
+* 3D-printed clones might experience mutations while created - meaning
+that their stats have a chance to get lower than the original ones. You
+can, however, purchase the *Positive mutation* perk for 20 bonds that will
+actually make your 3D-printed clone "better" than original you!
+* 3D-printed clones always have the same genotype as original. However,
+if you purchase a vat-grown clone, you can select its genotype against
+an additional payment of 20 bonds.
+
+Both vat-grown and 3D-printed clones have a fixed gestation time of 100 segments,
+which can be halved for 70 bonds.
+
+*Premium* clones cost a flat rate of 99 bonds, and offer the advantage that
+you can later update them to your current physical stats. You can spend 
+20 bonds per clone to update them all to your current physical stats.
+
+The gestation time of a *premium* clone is 200 segments and can be halved for
+additional 99 bonds.
 
 # Tactics, Strategy and Advice
 
