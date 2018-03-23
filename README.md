@@ -211,7 +211,7 @@ to a different area of the station reduces the physical stats.
 
 If you are at 100% encumbered, you will be losing 10% of each of the
 physical stats with every move to the different area of the station.
-If one of your physical stats reaches 0 because of encumrance, you will
+If one of your physical stats reaches 0 because of encumbrance, you will
 lose consciousness and be taken to Sick Bay (you may even die if the station
 does not have a Sick Bay!), so try to offload heavy items at the first 
 opportunity.
