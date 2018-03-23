@@ -29,6 +29,7 @@ You can earn credits through
 * daily career payments
 * side jobs
 * discreet work
+* combat, followed by looting the opponent
 * levelling up
 * missions (though most missions don't pay well financially)
 
@@ -144,7 +145,6 @@ You can survive without explicit use of rations. But, each time you
 consume a ration, it immediately fills up all of your stats and your
 Focus. 
 
-
 If you consume a ration of a tier one lower than your character's, the
 immediate regeneration is incomplete. A ration two tiers below your
 current tier does not give any immediate regeneration.
@@ -157,7 +157,8 @@ difference of two).
 You are automatically assigned one ration per day, which you can fetch
 at any station's Government Center. You can sometimes find rations in
 the Ruins, and sometimes they are awarded as the random reward for doing
-discreet work.
+discreet work. Rations are also often the reward of successful combat
+following random encounters in the Ruins.
 
 Finally, you can spend bonds as bribes for more rations, though the
 price doubles each time you do it in one day, and drops back to the
@@ -220,6 +221,26 @@ If you don't want to carry around stuff, you can sell it (go to Market
 -> Vendors and then to your Inventory), store it (go to Market -> Storage,
 buy storage if you haven't yet and then to your Inventory), or drop them
 right from the Inventory.
+
+### Random Encounters in the Ruins
+
+In the Ruins you can also search for random encounters. Each search costs
+5% Agility and Stamina each. When you find somebody, you can engage in
+combat with them (but you don't have to do so immediately; you can, for
+example, consume a ration or even retire to your hotel room first for
+some stats replenishment).
+
+Upon finding an opponent in the Ruins, you have 8 segments to fight them.
+
+When you win such a fight, you can loot the opponent, which tends to give
+you on the order of 1 to 50 credits, and you gain a reward. The reward
+is often a ration, but it can also be a piece of armoury or a weapon.
+
+You also gain experience from victorious combat, more so than from career
+tasks or side jobs.
+
+After finding an opponent, you cannot engage in another random encounter
+for the next 8 segments.
 
 ### Pursue a Career
 
@@ -449,15 +470,22 @@ missions, it makes sense to spend your time on higher-level stations.
 
 You can attack players and some NPCs, and other players can attack you.
 
+Combat is turn-based, though in Player-vs-player combat, there are
+timeouts for the turns. In combat mode, there is also a countdown
+for when Security forces will likely arrive.
+
 When you try to attack somebody, there is a chance that Security detains
 you. The chance depends on the Orwellian level of the station (which you
 can find in the Government Center), and the length of the stay in the
 Brig depends on the law level. Tau Station is super paranoid, and you
-can't ever attack somebody successfully there.
+can't ever attack somebody successfully there (possibly with the exception
+of random encounters in the Ruins).
 
 You can wear an armour suit, and equip up to two weapons. There are three
 kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
-accuracy, and one or sometimes two kinds of damage they make.
+accuracy, and one or sometimes two kinds of damage they make. There is also
+long range and shot range combat, and gun-like weapons are suited for long
+range combat, while knifes and improvised weapons work in short range combat.
 
 The success of an attack depends on the physical stats (mostly Stamina,
 I think), the accuracy of the weapon, and combat skills (which can be
@@ -542,7 +570,6 @@ From the [official blog](https://taustation.space/blog/), twitter and statements
 from the Tau Station team, it seems that at least the following major features
 are planned:
 
-* *PvE* (Player vs. Environment) campaigns for the Ruins.
 * The ability to purchase *private ships*, and use them for travel.
 * The *Electronic Market*, which enables selling items to other players.
 * *Crafting* items, which makes sense if you need something to sell.
@@ -550,6 +577,7 @@ are planned:
 * Another star system, *Bernard's Star*, with brand new stations.
 * Prerequisites and Perks for career levels.
 * More missions and artwork.
+* Extension to the random encounters in the Ruins.
 
 
 # Resources
