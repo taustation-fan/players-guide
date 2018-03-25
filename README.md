@@ -576,6 +576,7 @@ are planned:
 * Player *Syndicates*, cooperations of players that conduct business together.
 * Another star system, *Bernard's Star*, with brand new stations.
 * Prerequisites and Perks for career levels.
+* Modifications (*mods*), implanted electronic devices that modify attributes of the body.
 * More missions and artwork.
 * Extension to the random encounters in the Ruins.
 
