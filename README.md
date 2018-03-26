@@ -566,7 +566,7 @@ Some random bits of advice on how to make the most of out Tau Station:
 
 # Planned Features
 
-From the [official blog](https://taustation.space/blog/), twitter and statements
+From the [official blog](https://blog.taustation.space/blog/), twitter and statements
 from the Tau Station team, it seems that at least the following major features
 are planned:
 
@@ -574,7 +574,7 @@ are planned:
 * The *Electronic Market*, which enables selling items to other players.
 * *Crafting* items, which makes sense if you need something to sell.
 * Player *Syndicates*, cooperations of players that conduct business together.
-* Another star system, *Bernard's Star*, with brand new stations.
+* Another star system, *Barnard's Star*, with brand new stations.
 * Prerequisites and Perks for career levels.
 * Modifications (*mods*), implanted electronic devices that modify attributes of the body.
 * More missions and artwork.
