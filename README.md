@@ -234,7 +234,8 @@ Upon finding an opponent in the Ruins, you have 8 segments to fight them.
 
 When you win such a fight, you can loot the opponent, which tends to give
 you on the order of 1 to 50 credits, and you gain a reward. The reward
-is often a ration, but it can also be a piece of armoury or a weapon.
+on lower-level stations is often a piece of armor or a weapon, and on
+higher-level stations it can be a ration.
 
 You also gain experience from victorious combat, more so than from career
 tasks or side jobs.
