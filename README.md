@@ -490,7 +490,7 @@ accuracy, and one or sometimes two kinds of damage they make. There is also
 long range and shot range combat, and gun-like weapons are suited for long
 range combat, while knifes and improvised weapons work in short range combat.
 
-The success of an attack depends on the physical stats (mostly Stamina,
+The success of an attack depends on the physical stats (mostly Agility,
 I think), the accuracy of the weapon, and combat skills (which can be
 acquired through University courses).
 
@@ -501,6 +501,44 @@ zero, the loser becomes unconscious, and can be looted by the winner.
 On stations with a Sick Bay, the loser can then recover in the Sick Bay.
 On stations without a Sick Bay, this can be the death of the character's
 body. Which hopefully triggers the activation of a clone.
+
+### Choice of Weapons
+
+You have two weapon slots that you can equip from your inventory. Since
+combat typically starts from a long range, and later goes to a short range,
+you should try to equip one slot with a gun-like weapon (long range), and
+the other with a weapon suited for hand-to-hand combat.
+
+If possible, you should also select the weapons to do different types of
+damages, which increases your chances against an opponent with
+specialized armor.
+
+A weapon should have a high accuracy and produce much damage; so in lack
+of a more sophisticated model, we use the product of accuracy and the
+sum of all damages as a score for a weapon. By this score, the following
+weapons can be recommended in particular:
+
+| Tier | Weapon                 | Range | Score | Damage Type | Mass (kg) |
+|------|------------------------|-------|-------|-------------|-----------|
+| 1    | Rusted Butterfly Knife |Short	|1.59   | Piercing    | 0.4       |
+| 2    | Heated Prod            |Short	|2.36   | Energy      | 2.3       |
+| 2    | Sharpened Ice Club     |Short	|2.34   | Piercing    | 1.8       |
+| 2    | Old Copper Pipe        |Short	|2.32   | Energy      | 1.4       |
+| 2    | Trusty Field Hand      |Long	|1.74   | Impact      | 2.8       |
+| 2    | First Mate’s Input     |Long	|1.73   | Impact      | 3.3       |
+| 3    | Iridium Mace           |Short	|2.53   | Impact      | 2.9       |
+| 3    | SAG Stun Baton         |Short	|2.35   | Energy      | 1.3       |
+| 3    | Dur-Zip-Zap            |Long	|2.4    | Energy      | 0.7       |
+| 3    | Handgun Reclaim        |Long	|2.36   | Energy      | 1.2       |
+
+You can obtain weapons in the following ways:
+
+* You can find them while scavenging in the Ruins.
+* Some missions give you a weapon as reward.
+* Sometimes Discreet Work gives you a weapon as reward.
+* You can buy them at vendors, where the offering differs from station to
+  station.
+* You can buy them at the Public Market
 
 ## Clones
 
