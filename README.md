@@ -521,11 +521,13 @@ weapons can be recommended in particular:
 | Tier | Weapon                 | Range | Score | Damage Type | Mass (kg) |
 |------|------------------------|-------|-------|-------------|-----------|
 | 1    | Rusted Butterfly Knife |Short	|1.59   | Piercing    | 0.4       |
+|      |                        |       |       |             |           |
 | 2    | Heated Prod            |Short	|2.36   | Energy      | 2.3       |
 | 2    | Sharpened Ice Club     |Short	|2.34   | Piercing    | 1.8       |
 | 2    | Old Copper Pipe        |Short	|2.32   | Energy      | 1.4       |
 | 2    | Trusty Field Hand      |Long	|1.74   | Impact      | 2.8       |
 | 2    | First Mate’s Input     |Long	|1.73   | Impact      | 3.3       |
+|      |                        |       |       |             |           |
 | 3    | Iridium Mace           |Short	|2.53   | Impact      | 2.9       |
 | 3    | SAG Stun Baton         |Short	|2.35   | Energy      | 1.3       |
 | 3    | Dur-Zip-Zap            |Long	|2.4    | Energy      | 0.7       |
