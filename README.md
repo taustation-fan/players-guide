@@ -531,6 +531,9 @@ weapons can be recommended in particular:
 | 3    | Dur-Zip-Zap            |Long	|2.4    | Energy      | 0.7       |
 | 3    | Handgun Reclaim        |Long	|2.36   | Energy      | 1.2       |
 
+Be aware that you can only equip weapons and armor of your own tier or lower,
+not of higher tiers.
+
 You can obtain weapons in the following ways:
 
 * You can find them while scavenging in the Ruins.
