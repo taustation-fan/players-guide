@@ -588,3 +588,4 @@ are planned:
 
 * [TauHead](https://www.tauhead.com/) harvests encyclopedic data from the Tau Station universe.
 * This [Greasemonkey Script](https://gist.github.com/moritz/97aa186cd99daee2b63c82bc9a20bb5a) adds some navigation shortcuts to the menu, and can optionally hide buttons that spend bonds to prevent accidental spending.
+* The IRC channel `##taustation` on irc.freenode.org is a meeting point for players who find the built-in chat cumbersome.
