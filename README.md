@@ -89,11 +89,13 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 |Booster                               | Focus/%   | Stats/% | Measured   |
 |--------------------------------------|-----------|---------|------------|
 | None                                 | 3         | 3       |            |
+| Healthcare 3                         | 2..3      | 3       | 2018-03-27 |
 | Hotel                                | 4         | 4       |            |
 | Well Fed                             | 4         | 4       |            |
 | Hotel + Well Fed                     | 5         | 4       |            |
 | Hotel + Healthcare 2                 | 4         | 5       |            |
 | Hotel + Well Fed + Healthcare 2      | 6..7      | 6..7    |            |
+| Hotel + Healthcare 3                 | 3..5      | 3..5    | 2018-03-27 |
 | VIP                                  | 6         | 6       |            |
 | VIP + Healthcare 2                   | 10..11    | 6..7    | 2018-03-17 |
 | VIP + Hotel                          | 10..11    | 6..7    |            |
