@@ -541,6 +541,8 @@ You can obtain weapons in the following ways:
 * You can find them while scavenging in the Ruins.
 * Some missions give you a weapon as reward.
 * Sometimes Discreet Work gives you a weapon as reward.
+* Discreet Work often involves stealing or finding a weapon, and delivering it
+  to somebody else. You can steal the weapon you are meant to deliver.
 * You can buy them at vendors, where the offering differs from station to
   station.
 * You can buy them at the Public Market
