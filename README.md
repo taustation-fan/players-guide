@@ -547,6 +547,22 @@ You can obtain weapons in the following ways:
   station.
 * You can buy them at the Public Market
 
+### Weapons Maintenance
+
+Weapons and armor can be damaged during fights. When the fight is over, you
+can either repair it yourself, or pay for repair.
+
+You can repair your weapons everywhere, but the hotel room is the best choice.
+Go to your inventory, then unequip the weapon, and then click on "repair". The
+repair takes time, and consumes a bit of *Intelligence* and *Focus*. You can't
+do anything else while repairing. You can spend bonds to make the repair
+instantaneous.
+
+If you want to pay for repair, you first have to Port -> Shipping Bay, and then
+in the inventory, unequip, and then send it for repair. With this option,
+you can do other things in the mean time. You will be notified when the repair
+is finished. Then you can pick up the repaired item from the Shipping Bay.
+
 ## Clones
 
 *Note: this section is a bit conjectural, because I have not yet had the
