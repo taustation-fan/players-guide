@@ -376,17 +376,17 @@ your character page) makes courses faster.
 
 The following modules are available, grouped by station:
 
-* Tau Station (Sol)
+* Tau Station (Sol; Consortium)
     * Business: Bureaucracy
     * Combat: Combat Basics, Intermediate Combat, Defensive Tactics
     * Engineering: Basic Engineering
-* Nouveau Limoges (Sol)
+* Nouveau Limoges (Sol; Gaule)
     * Engineering: Basic Engineering
     * Medicine: First Aid, Anatomy
     * Psychology: International Relations
-* Moissan Station (Alpha Centauri)
+* Moissan Station (Alpha Centauri; Gaule)
     * Medicine: First Aid
-* Spirit of Botswana (Alpha Centauri)
+* Spirit of Botswana (Alpha Centauri, Consortium)
     * Combat: Combat Basics, Special Ops
 
 ## VIP Packs
