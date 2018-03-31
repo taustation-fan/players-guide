@@ -96,6 +96,7 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 | Hotel + Healthcare 2                 | 4         | 5       |            |
 | Hotel + Well Fed + Healthcare 2      | 6..7      | 6..7    |            |
 | Hotel + Healthcare 3                 | 3..5      | 3..5    | 2018-03-27 |
+| Hotel + Well Fed + Healthcare 3      | 5         | 5       | 2018-03-31 |
 | VIP                                  | 6         | 6       |            |
 | VIP + Healthcare 2                   | 10..11    | 6..7    | 2018-03-17 |
 | VIP + Hotel                          | 10..11    | 6..7    |            |
@@ -445,9 +446,10 @@ All players start from level 1, and gain experience through
 
 When you reach 100% experience of the current career level, you ascend
 to the next level. On leveling up, you receive a small bonus in credits.
+Levels are capped to 15.
 
 Each block of five levels is called a *tier*, and ascending to a higher
-tier also gives a bonus of 500 bonds.
+tier (so from level 5 to 6, or from 10 to 11) also gives a bonus of 500 bonds.
 
 Leveling up also gives you access to more missions, which have minimal
 player levels as prerequisites.
