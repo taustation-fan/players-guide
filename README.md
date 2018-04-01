@@ -633,6 +633,49 @@ you can later update them to your current physical stats. You can spend
 The gestation time of a *premium* clone is 200 segments and can be halved for
 additional 99 bonds.
 
+## Shipping and Selling Items
+
+### Shipping Items
+
+You can send items to other players, or to yourself on specific
+stations.
+
+To send an item to another player, you first have to add them at the
+[contacts page](https://alpha.taustation.space/contact).
+
+In either case, go the Port and then Shipping Bay, and then to your
+inventory. There you can select an item, and click on *Send item*. This
+lets you select the recipient, and if you select yourself, the
+destination station. The shipping price depends on the distance
+and the shipped object's mass.
+
+After the object has arrived, the recipient gets a notification, and can
+pick up item at the Shipping Bay. If they don't do so within a few days,
+they get a notification that they have ten days remaining, otherwise the
+item will be sent back.
+
+You can send items to yourself if you do not wish to carry them around
+(for example if they are too heavy to carry them around the whole time,
+or you don't want to risk losing them if your current clone dies). You
+can also send items as gifts to other players.
+
+### Selling Items to Vendors
+
+You can send items for a fixed price if you go to Market and then
+Vendors (and then select the Inventory). Each item has a nominal price,
+and you get a third of that price at NPC vendors. The same vendors also
+sell items, but often for much more than the nominal price (like, a
+factor of 9 or so above the nominal price).
+
+### Selling Items on the Public Market
+
+The *Public Market* allows you to sell items to other players. You can
+select an item for sell, and defined a price. You have to pay 10% of the
+selling price up-front, which covers shipping fees as well. If a player
+buys it within three days, you will receive the asking price directly to
+your bank account. Otherwise, you can pick up the item after three days
+at the Shipping Bay.
+
 # Tactics, Strategy and Advice
 
 Some random bits of advice on how to make the most of out Tau Station:
