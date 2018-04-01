@@ -132,6 +132,11 @@ example on Tau Station (level 1), you get about a 0.004 stats increase
 for every 10% of focus that you invest. On Yards of Gadani (level 10),
 the stat increase is around 0.019.
 
+Training also depends on the character's
+[genotype](https://alpha.taustation.space/archive/genotypes), because
+genotypes have pre-dispositions for certain traits. Belters, for
+instance, find it easier to train Agility than Strength.
+
 Training can lead to injury (and thus unconsciousness or time at the
 Sick Bay) if your stats are too low. Each gym has a minimal sum of
 combined physical stats that you need to avoid injury, starting with 30
