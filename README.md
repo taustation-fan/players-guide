@@ -145,7 +145,7 @@ Similar limits (though not explicitly denoted) apply to training of the
 social and the intelligence stat.
 
 Stats can also randomly increase as a bonus of successfully completed
-anonymous work.
+discreet work.
 
 ## Rations
 
@@ -166,7 +166,7 @@ You are automatically assigned one ration per day, which you can fetch
 at any station's Government Center. You can sometimes find rations in
 the Ruins, and sometimes they are awarded as the random reward for doing
 discreet work. Rations are also often the reward of successful combat
-following random encounters in the Ruins.
+following random encounters in the Ruins on high-level stations.
 
 Finally, you can spend bonds as bribes for more rations, though the
 price doubles each time you do it in one day, and drops back to the
@@ -186,7 +186,7 @@ by the orange action flag, either in an area or next to person.
 During missions, you typically invest focus and some stats. After you
 have finished the missions on Tau Station, you must travel to other
 stations to find missions, and those missions might again prompt you to
-other stations, which costs you credits (and there are missions that
+travel to other stations, which costs you credits (and there are missions that
 require at least three interstellar travels). Also, sometimes bribing
 somebody with your own credits is the easiest way to convince an NPC to
 collaborate.
@@ -195,6 +195,11 @@ Missions give you a small financial reward, and typically the largest
 experience reward that is available in the whole game. But most
 importantly, missions are interactive short stories that are enjoyable
 to read and experience.
+
+Some missions also build on other missions, and you can only engage in
+the later missions if you completed the previous missions successfully.
+
+I advice to play all missions available to you.
 
 ### Ruins Scavenging
 
@@ -230,10 +235,15 @@ If you don't want to carry around stuff, you can sell it (go to Market
 buy storage if you haven't yet and then to your Inventory), or drop them
 right from the Inventory.
 
+Common trade goods are mostly an annoyance, but some players hypothesize
+that they might serve as the raw material for crafting items, when that
+feature will be implemented in future.
+
 ### Random Encounters in the Ruins
 
 In the Ruins you can also search for random encounters. Each search costs
-5% Agility and Stamina each. When you find somebody, you can engage in
+5% Agility and Stamina each, and 10% focus (or 15% for VIPs). When you
+find somebody, you can engage in
 combat with them (but you don't have to do so immediately; you can, for
 example, consume a ration or even retire to your hotel room first for
 some stats replenishment).
@@ -288,8 +298,12 @@ missed advancing your career.
 
 You advance your career by succeeding at career tasks. You go to
 different areas of the station, and click on the "Tasks" tab, and then
-attempt some tasks. Each success adds up to your career experience,
-and each failure subtracts some amount.
+attempt some tasks. The [career overview
+page](https://alpha.taustation.space/career) lists all available tasks,
+and where you can try them.
+
+Each success adds up to your career experience, and each failure
+subtracts some amount.
 
 Each night at GCT 0/0 (which coincides with midnight UTC on Auld Earth),
 the number of days you spent in a career rank
@@ -337,7 +351,7 @@ more importantly, a random bonus. This bonus can be
 * a weapon or armour
 * a bond package
 * a ration
-* a VIP packs
+* a VIP pack
 
 In most cases, the potential rewards depends on the station level. For
 example on Taungoo Station (level 5), the stats boost tends to be on the
@@ -354,7 +368,7 @@ and bringing it to somebody else. Between those two actions, the item
 is in your own inventory, and you can steal it by aborting the mission.
 The only repercussion is that after aborting an anonymous mission, you
 won't be offered a new one for a while. For valuable items such as
-rations, bond packages or VIP packs, this is usually worth it.
+rare weapons, rations, bond packages or VIP packs, this is usually worth it.
 
 Despite the disclaimer of potential danger, Discreet Work has never
 brought me into the Sick Bay or the Brig.
