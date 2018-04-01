@@ -499,10 +499,10 @@ timeouts for the turns. In combat mode, there is also a countdown
 for when Security forces will likely arrive.
 
 When you try to attack somebody, there is a chance that Security detains
-you. The chance depends on the Orwellian level of the station (which you
+you on the spot. The chance depends on the Orwellian level of the station (which you
 can find in the Government Center), and the length of the stay in the
 Brig depends on the law level. Tau Station is super paranoid, and you
-can't ever attack somebody successfully there (possibly with the exception
+can't ever attack somebody successfully there (with the exception
 of random encounters in the Ruins).
 
 You can wear an armour suit, and equip up to two weapons. There are three
@@ -510,6 +510,9 @@ kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
 accuracy, and one or sometimes two kinds of damage they make. There is also
 long range and shot range combat, and gun-like weapons are suited for long
 range combat, while knifes and improvised weapons work in short range combat.
+
+(A bug in the game engine lets you successfully use short-range weapons
+in long-range combat, this is likely to change).
 
 The success of an attack depends on the physical stats (mostly Agility,
 I think), the accuracy of the weapon, and combat skills (which can be
@@ -560,6 +563,8 @@ not of higher tiers.
 You can obtain weapons in the following ways:
 
 * You can find them while scavenging in the Ruins.
+* Successful combat from random encounters in the Ruins can also reward
+  you with weapons or armor.
 * Some missions give you a weapon as reward.
 * Sometimes Discreet Work gives you a weapon as reward.
 * Discreet Work often involves stealing or finding a weapon, and delivering it
@@ -600,6 +605,9 @@ dies, the newest clone is activated. So the character keeps its
 *intelligence* and *social* stats, but reverts back to the physical
 stats of the clone.
 
+Each player has a *default clone* on Tau Station, which is automatically
+updated when you level-up.
+
 There are currently three types of clones in the game: 3D-printed, vat-grown
 and *Premium*. Even though most of the stations will have Clones facility,
 not all of the stations provide all three types of clones.
@@ -632,8 +640,8 @@ Some random bits of advice on how to make the most of out Tau Station:
 * Play the missions for fun and profit!
 * Pick a career that doesn't have Stamina as primary or secondary stat (Medicine or Special Ops)
 * Use your Stamina to search for valuable things in the Ruins. Despite what it says in the area descriptions, the Ruins are not (yet?) dangerous (except for other players attacking you, which can happen in other areas too).
-** Equip the best weapons and armor that you find
-** Store or sell the rest, depending on how badly you need the money
+ * Equip the best weapons and armor that you find
+ * Store or sell the rest, depending on how badly you need the money
 * As soon as you have reached level 3, strive to spend most of your time on higher-level stations; training your stats is more efficient there, and you find more valuable things in the ruins. 
 * When you are not actively playing, spend your time in a hotel room, which speeds up stats and focus regeneration, and keeps you save from attacks.
 * Missions, Discreet Work and training your stats require more Focus than career tasks and ruins scavenging; so if you are on VIP packs occasionally, do the first-mentioned kinds of things preferably while on VIP, and focus on your career and ruins searching while not a VIP.
@@ -656,7 +664,6 @@ from the Tau Station team, it seems that at least the following major features
 are planned:
 
 * The ability to purchase *private ships*, and use them for travel.
-* The *Electronic Market*, which enables selling items to other players.
 * *Crafting* items, which makes sense if you need something to sell.
 * Player *Syndicates*, cooperations of players that conduct business together.
 * Another star system, *Barnard's Star*, with brand new stations.
