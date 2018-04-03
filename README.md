@@ -92,6 +92,7 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 | Healthcare 3                         | 2..3      | 3       | 2018-03-27 |
 | Hotel                                | 4         | 4       |            |
 | Well Fed                             | 4         | 4       |            |
+| Well Fed + Healthcare 3              | 5         | 5       | 2018-04-03 |
 | Hotel + Well Fed                     | 5         | 4       |            |
 | Hotel + Healthcare 2                 | 4         | 5       |            |
 | Hotel + Well Fed + Healthcare 2      | 6..7      | 6..7    |            |
