@@ -374,6 +374,15 @@ rare weapons, rations, bond packages or VIP packs, this is usually worth it.
 Despite the disclaimer of potential danger, Discreet Work has never
 brought me into the Sick Bay or the Brig.
 
+#### Discreet Work Tips and Tricks
+
+* Don't try to be clever when doing Discreet Work; for example, what it
+says "you must find Aearis Tinsley", you won't find here by looking through
+all areas of the current station; you have to follow the mission steps.
+* If you can't seem to find your next step, try going back to [the discreet work area](https://alpha.taustation.space/area/discreet-work).
+* You can start discreet work while being on a mission. The link for discreet
+work isn't shown while you are pursuing a mission, but if you [follow this link to discreet work](https://alpha.taustation.space/area/discreet-work), you can start it anyway.
+
 ## University Courses
 
 University courses can teach you handy skills. You have to pay some
