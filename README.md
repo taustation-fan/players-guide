@@ -419,6 +419,9 @@ The following modules are available, grouped by station:
 * Spirit of Botswana (Alpha Centauri, Consortium)
     * Combat: Combat Basics, Special Ops
 
+Most courses only have negligible benefits on their own, but if you finish
+several related courses, the compound effect is typically noticeable.
+
 ## VIP Packs
 
 VIP packs provide many benefits, documented
@@ -437,6 +440,8 @@ The following are sources of VIP packs:
 * You can buy a 3-day VIP pack every 7 days at the Market, for 290 bonds
 * You can find VIP packs in the ruins
 * Sometimes, the random reward for discreet work can be a VIP pack
+
+You can also sell VIP packs on the Public Market, for around 10,000 credits per day of VIP.
 
 ## Travel
 
@@ -493,7 +498,7 @@ Higher-level stations generally
 
 * have higher yields for stats training
 * tend to have higher limits for safe stats training
-* let you find more valuable weapons and armor in the Ruins
+* let you find more valuable weapons and armor in the Ruins, and as rewards for discreet work and successful Ruins campaigns
 * have more expensive hotel rooms
 * have higher-paying side jobs and discreet work
 
@@ -524,11 +529,15 @@ range combat, while knifes and improvised weapons work in short range combat.
 (A bug in the game engine lets you successfully use short-range weapons
 in long-range combat, this is likely to change).
 
+After completing the appropriate University courses, you also have slots
+available on your belt, where you can equip stims that let you boost a stat
+that is running low.
+
 The success of an attack depends on the physical stats (mostly Agility,
 I think), the accuracy of the weapon, and combat skills (which can be
 acquired through University courses).
 
-A successful attack can damage the opponent's armor, and then wound the
+A successful attack can damage the opponent's armor, and wound the
 opponent, which reduces a physical stat. Once a physical stat drops to
 zero, the loser becomes unconscious, and can be looted by the winner.
 
@@ -579,9 +588,10 @@ You can obtain weapons in the following ways:
 * Sometimes Discreet Work gives you a weapon as reward.
 * Discreet Work often involves stealing or finding a weapon, and delivering it
   to somebody else. You can steal the weapon you are meant to deliver.
-* You can buy them at vendors, where the offering differs from station to
-  station.
 * You can buy them at the Public Market
+* You can buy them at vendors, where the offering differs from station to
+  station. The [item list on TauHead](https://www.tauhead.com/item/list) gives
+  a convenient overview which weapon can be bought were.
 
 ### Weapons Maintenance
 
@@ -616,7 +626,8 @@ dies, the newest clone is activated. So the character keeps its
 stats of the clone.
 
 Each player has a *default clone* on Tau Station, which is automatically
-updated when you level-up.
+updated when you level-up. Due to this mechanisms, clones are typically
+only of interest when you reach the level cap at 15.
 
 There are currently three types of clones in the game: 3D-printed, vat-grown
 and *Premium*. Even though most of the stations will have Clones facility,
@@ -660,7 +671,7 @@ destination station. The shipping price depends on the distance
 and the shipped object's mass.
 
 After the object has arrived, the recipient gets a notification, and can
-pick up item at the Shipping Bay. If they don't do so within a few days,
+pick up item at the Shipping Bay. If they don't do so within 30 days,
 they get a notification that they have ten days remaining, otherwise the
 item will be sent back.
 
@@ -668,6 +679,10 @@ You can send items to yourself if you do not wish to carry them around
 (for example if they are too heavy to carry them around the whole time,
 or you don't want to risk losing them if your current clone dies). You
 can also send items as gifts to other players.
+
+If an item has been delivered to you to the shipping bay of a station
+that you are currently not on, you can redirect the shipment to the
+current station (for which you have to pay).
 
 ### Selling Items to Vendors
 
