@@ -38,10 +38,10 @@ You can earn credits through
 Bonds are harder to earn, and can be used to pay for things that make
 playing easier or faster:
 
-* VIP packs
 * accelerating University courses
-* premium clones
+* VIP packs
 * bribing for extra rations
+* premium clones
 * boosting training
 * faster release from the Brig (prison) and Sick Bay
 * faster shuttle travel
