@@ -148,6 +148,9 @@ social and the intelligence stat.
 Stats can also randomly increase as a bonus of successfully completed
 discreet work.
 
+Finally, the primary and secondary stat of your career improve at midnight
+GCT if you've used them on the day before.
+
 ## Rations
 
 You can survive without explicit use of rations. But, each time you
