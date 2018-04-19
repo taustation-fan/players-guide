@@ -737,11 +737,15 @@ are planned:
 * The ability to purchase *private ships*, and use them for travel.
 * *Crafting* items, which makes sense if you need something to sell.
 * Player *Syndicates*, cooperations of players that conduct business together.
-* Another star system, *Barnard's Star*, with brand new stations.
+* More star system, starting with *Barnard's Star*.
 * Prerequisites and Perks for career levels.
 * Modifications (*mods*), implanted electronic devices that modify attributes of the body.
 * More missions and artwork.
+* More careers
+* Ice Mining
+* New skills
 * Extension to the random encounters in the Ruins.
+* Music
 
 
 # Resources
