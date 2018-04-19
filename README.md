@@ -480,7 +480,7 @@ All players start from level 1, and gain experience through
 
 When you reach 100% experience of the current career level, you ascend
 to the next level. On leveling up, you receive a small bonus in credits.
-Levels are capped to 15.
+Levels are capped to 25.
 
 Each block of five levels is called a *tier*, and ascending to a higher
 tier (so from level 5 to 6, or from 10 to 11) also gives a bonus of 500 bonds.
@@ -627,7 +627,7 @@ stats of the clone.
 
 Each player has a *default clone* on Tau Station, which is automatically
 updated when you level-up. Due to this mechanisms, clones are typically
-only of interest when you reach the level cap at 15.
+only of interest when you reach the level cap at 25.
 
 There are currently three types of clones in the game: 3D-printed, vat-grown
 and *Premium*. Even though most of the stations will have Clones facility,
