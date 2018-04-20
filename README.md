@@ -54,8 +54,8 @@ You can obtain bonds in the following ways:
 
 * you can buy them in the shop
 * as a daily reward for your career level
-* you can find bond packages in the Ruins
 * sometimes, discreet/anonymous work has a small bonds reward
+* you can find bond packages in the Ruins
 * if you level up to a new tier (if you reach levels 6 and 11),
   you get a bonds reward
 
@@ -245,8 +245,9 @@ feature will be implemented in future.
 
 ### Random Encounters in the Ruins
 
-In the Ruins you can also search for random encounters. Each search costs
-5% Agility and Stamina each, and 10% focus (or 15% for VIPs). When you
+In the Ruins you can also search for random encounters ("Look for Trouble").
+Each search costs
+5% Agility and Stamina each, and 10% Focus (or 15% for VIPs). When you
 find somebody, you can engage in
 combat with them (but you don't have to do so immediately; you can, for
 example, consume a ration or even retire to your hotel room first for
@@ -260,7 +261,7 @@ on lower-level stations is often a piece of armor or a weapon, and on
 higher-level stations it can be a ration.
 
 You also gain experience from victorious combat, more so than from career
-tasks or side jobs.
+tasks.
 
 After finding an opponent, you cannot engage in another random encounter
 for the next 8 segments.
@@ -287,7 +288,8 @@ Ruins.
 The second factor is availability. Career tasks can be tied to locations
 (you can only repair ships at a Port, and only analyze security footage
 at Security), and not all stations have all areas. Ports are everywhere,
-Sick Bay, Cloning Vats, Brig and Security are also nearly ubiquitous.
+Sick Bay, Brig and Security are also nearly ubiquitous. Cloning Vats can
+be found on all stations except Daedalus and the Jump Gates.
 
 Finally, some careers are more dangerous than others; if a majority of
 tasks sound illegal, you might spend quite some time in the Brig.
@@ -380,7 +382,7 @@ brought me into the Sick Bay or the Brig.
 #### Discreet Work Tips and Tricks
 
 * Don't try to be clever when doing Discreet Work; for example, what it
-says "you must find Aearis Tinsley", you won't find here by looking through
+says "you must find Aearis Tinsley", you won't find her by looking through
 all areas of the current station; you have to follow the mission steps.
 * If you can't seem to find your next step, try going back to [the discreet work area](https://alpha.taustation.space/area/discreet-work).
 * You can start discreet work while being on a mission. The link for discreet
@@ -390,9 +392,9 @@ work isn't shown while you are pursuing a mission, but if you [follow this link 
 
 University courses can teach you handy skills. You have to pay some
 credits to enroll in one, and can optionally spend bonds to speed them
-up. The basic courses are relatively cheap and fast, while more advanced
-courses take much longer, and can cost up to several ten thousand
-credits.
+up. The basic courses are relatively cheap (typically around 200 credits
+and fast, while more advanced courses take much longer (up to 14 days),
+and can cost up to several ten thousand credits.
 
 You can only be enrolled in one course at a time, and you cannot abort a
 course that you started.
@@ -425,11 +427,24 @@ The following modules are available, grouped by station:
 Most courses only have negligible benefits on their own, but if you finish
 several related courses, the compound effect is typically noticeable.
 
+The *Anatomy* module consists of *Healthcare*, which speeds up stats
+and focus recovery slightly, and *Self-Surgery*, which speeds up recovery
+in the Sick Bay.
+
+*Intermediate Combat* unlocks the combat belt, which allows you to carry
+stims during combat (which can quickly regenerate a stat).
+
+*International Relations* seems to make it easier to convince other people
+to do things (so corresponds to an increased *Social* skill).
+
+The *Item Repair* courses from the *Engineering* module speeds up
+weapon and armor repairs.
+
 ## VIP Packs
 
 VIP packs provide many benefits, documented
 [here](https://taustation.space/blog/shop-grand-opening-next-steps/).
-The most important ones are 150% focus, much faster stats regeneration, and
+The most important ones are 150% Focus, much faster stats regeneration, and
 larger experience gains.
 
 Playing with an active VIP pack is significantly more fun and more
@@ -486,7 +501,7 @@ to the next level. On leveling up, you receive a small bonus in credits.
 Levels are capped to 25.
 
 Each block of five levels is called a *tier*, and ascending to a higher
-tier (so from level 5 to 6, or from 10 to 11) also gives a bonus of 500 bonds.
+tier (so from level 5 to 6, or from 10 to 11 etc.) also gives a bonus of 500 bonds.
 
 Leveling up also gives you access to more missions, which have minimal
 player levels as prerequisites.
