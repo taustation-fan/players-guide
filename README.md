@@ -661,6 +661,7 @@ not all of the stations provide all three types of clones.
 
 3D-printed and vat-grown clones can be bought with credits, with the cost 
 dependent on the player's level. The main differences between them are:
+
 * 3D-printed clones are around 50% cheaper than vat-grown
 * 3D-printed clones might experience mutations while created - meaning
 that their stats have a chance to get lower than the original ones. You
@@ -670,7 +671,7 @@ actually make your 3D-printed clone "better" than original you!
 if you purchase a vat-grown clone, you can select its genotype against
 an additional payment of 20 bonds.
 
-Both vat-grown and 3D-printed clones have a fixed gestation time of 100 segments,
+Both vat-grown and 3D-printed clones have a fixed gestation time of 100 segments (one day),
 which can be halved for 70 bonds.
 
 *Premium* clones cost a flat rate of 99 bonds, and offer the advantage that
@@ -697,7 +698,7 @@ destination station. The shipping price depends on the distance
 and the shipped object's mass.
 
 After the object has arrived, the recipient gets a notification, and can
-pick up item at the Shipping Bay. If they don't do so within 30 days,
+pick up item at the Shipping Bay. If they don't do so within 20 days,
 they get a notification that they have ten days remaining, otherwise the
 item will be sent back.
 
@@ -746,7 +747,7 @@ Some random bits of advice on how to make the most of out Tau Station:
   credits, and then you might need to travel to another station before you
   can earn much money).
 * Only bother with clones after you have put significant effort into
-  training physical stats.
+  training physical stats, and even then it only rarely makes sense.
 * If you can, avoid illegal career tasks on Gaule-affiliated stations,
   since they punish foreigners harsher than the Consortium punishes
   their own citizens.
@@ -768,7 +769,8 @@ are planned:
 * Ice Mining
 * New skills
 * Extension to the random encounters in the Ruins.
-* Music
+* Multi-player cooperative Player-vs-Environment campaigns
+* Music and sound effects
 
 
 # Resources
