@@ -280,7 +280,7 @@ When I picked my career, I read through the descriptions, and picked the
 one that sounded best. You should be more strategic in your choice.
 
 The first factor you should consider is the primary and secondary stat
-associated with the career task. You should favor a career that makes
+associated with the career tasks. You should favor a career that makes
 use of Intelligence, because in the context of University courses, it
 makes sense to boost that stat anyway. You should also chose a career
 whose stats overlap with the strong stats of your genotype.
