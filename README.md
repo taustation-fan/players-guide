@@ -1,6 +1,6 @@
 # An Introduction to Tau Station
 
-[Tau Station](https://alpha.taustation.space/) is a text-based online RPG set
+[Tau Station](https://alpha.taustation.space/) is a text-based online Massive Multiplayer Role-Playing Game (MMORPG) set
 in the future in space, in a post-catastrophic environment.
 
 I (moritz) was a tester in the closed alpha testing phase, and want to document the
@@ -216,11 +216,11 @@ The things you can find in the ruins include (in decreasing likelihood):
 
 * nothing
 * common trade goods (sell for less than 1 credit)
+* rare trade goods (sell for 5000 credits or more)
 * weapons
 * armor
 * bond packages
 * VIP packs
-* rare trade goods (sell for 5000 credits or more)
 
 You can carry around what you find, up to a certain mass limit. If you
 carry around too much, you will get a warning that you are encumbered,
@@ -234,9 +234,11 @@ lose consciousness and be taken to Sick Bay (you may even die if the station
 does not have a Sick Bay!), so try to offload heavy items at the first 
 opportunity.
 
-If you don't want to carry around stuff, you can sell it (go to Market
--> Vendors and then to your Inventory), store it (go to Market -> Storage,
-buy storage if you haven't yet and then to your Inventory), or drop them
+If you don't want to carry around stuff, you can sell it to the vendors,
+(go to Market -> Vendors and then to your Inventory), to other players
+(go to Market -> Public Market and then your Inventory), or store it
+(go to Market -> Storage,
+buy storage if you haven't yet, and then to your Inventory), or drop them
 right from the Inventory.
 
 Common trade goods are mostly an annoyance, but some players hypothesize
@@ -245,7 +247,7 @@ feature will be implemented in future.
 
 ### Random Encounters in the Ruins
 
-In the Ruins you can also search for random encounters ("Look for Trouble").
+In the Ruins you can also search for random encounters ("Look for trouble").
 Each search costs
 5% Agility and Stamina each, and 10% Focus (or 15% for VIPs). When you
 find somebody, you can engage in
@@ -324,7 +326,8 @@ promoted after 2 days in career level 1, after 4 days in level 2, 8 days
 in level 3 etc., all the way up to 128 days in level 7.
 
 Career tasks use up 20% of the affected stat, and 5% focus. On success,
-you get a bonus in credits, which is the primary source of most player's
+you get a bonus in credits (between 3 and 320, depending on the difficulty
+of the task), which is the primary source of most player's
 credit wealth.
 
 As your hidden career experience increases and/or you are promoted,
@@ -342,7 +345,7 @@ lift heavy stuff, right?
 
 Side jobs are brief, one-off jobs that pay a fixed reward. They consist
 of tests against the same stat until you have passed five of them. They
-pay less than career tasks, but give you more experience.
+pay less than career tasks, but give you much more experience.
 
 The available side jobs and their pay depend on the station.
 
@@ -437,8 +440,8 @@ stims during combat (which can quickly regenerate a stat).
 *International Relations* seems to make it easier to convince other people
 to do things (so corresponds to an increased *Social* skill).
 
-The *Item Repair* courses from the *Engineering* module speeds up
-weapon and armor repairs.
+The *Item Repair* courses from the *Engineering* module allows you to
+repair weapon and armor on your own, instead of having to pay for it.
 
 ## VIP Packs
 
