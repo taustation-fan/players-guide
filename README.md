@@ -282,7 +282,9 @@ one that sounded best. You should be more strategic in your choice.
 The first factor you should consider is the primary and secondary stat
 associated with the career task. You should favor a career that makes
 use of Intelligence, because in the context of University courses, it
-makes sense to boost that stat anyway.
+makes sense to boost that stat anyway. You should also chose a career
+whose stats overlap with the strong stats of your genotype.
+
 All else being equal, you should avoid careers whose tasks make heavy
 use of stamina, so that you can use your stamina to rummage in the
 Ruins.
