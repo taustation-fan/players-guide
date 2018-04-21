@@ -458,11 +458,12 @@ use one.
 The following are sources of VIP packs:
 
 * You can buy them in the shop
-* You can buy a 3-day VIP pack every 7 days at the Market, for 290 bonds
-* You can find VIP packs in the ruins
+* You can buy a 3-day VIP pack every 7 days at the Vendors (Market), for 290 bonds
 * Sometimes, the random reward for discreet work can be a VIP pack
+* You can buy VIP packs on the Public Market when other players are willing to part with them.
+* You can find VIP packs in the ruins
 
-You can also sell VIP packs on the Public Market, for around 10,000 credits per day of VIP.
+You can also sell VIP packs on the Public Market, for up to 10,000 credits per day of VIP.
 
 ## Travel
 
@@ -474,13 +475,14 @@ star system's jump gate, and from there to the station you want.
 Travel depends on the distance between stations, which varies depending
 on the current orbital positions.
 
-You can't do anything except training intelligence during travels, but
+While traveling, you can't do anything except training intelligence.
+During the journey,
 stats and focus slowly regenerate. So before longer journeys, it makes
-sense to use up your current stats for career tasks.
+sense to use up your current stats for career tasks or other purposes.
 
 While planning your travel, be aware that hotel rooms cost more at
-higher-level stations, and that shifting orbit positions can make the
-travel back more expensive.
+higher-level stations, and that shifting orbital positions can make the
+return travel more expensive.
 
 You need a Gaule visa for visiting stations under the Gaule government
 (basically any station with French sounding names). As a VIP, you can
@@ -493,14 +495,15 @@ Centauri).
 All players start from level 1, and gain experience through
 
 * missions
-* successful combat
 * side jobs
+* successful combat
 * finding things in the Ruins
 * career tasks
 * discreet work
 
 When you reach 100% experience of the current career level, you ascend
-to the next level. On leveling up, you receive a small bonus in credits.
+to the next level. On leveling up, you receive a small bonus in credits,
+and immediately regenerate all stats and Focus.
 Levels are capped to 25.
 
 Each block of five levels is called a *tier*, and ascending to a higher
@@ -519,12 +522,14 @@ Higher-level stations generally
 
 * have higher yields for stats training
 * tend to have higher limits for safe stats training
-* let you find more valuable weapons and armor in the Ruins, and as rewards for discreet work and successful Ruins campaigns
+* let you find more valuable weapons and armor in the Ruins, and as rewards for discreet work
+* have more difficult opponents when you "look for trouble" in the Ruins, but
+also offer higher rewards
 * have more expensive hotel rooms
 * have higher-paying side jobs and discreet work
 
 All of these factors combined mean that, as long as you are not playing
-missions, it makes sense to spend your time on higher-level stations.
+missions, it usually makes sense to spend your time on higher-level stations.
 
 ## Combat
 
@@ -536,7 +541,7 @@ for when Security forces will likely arrive.
 
 When you try to attack somebody, there is a chance that Security detains
 you on the spot. The chance depends on the Orwellian level of the station (which you
-can find in the Government Center), and the length of the stay in the
+can find in the Government Center). If you are caught, the length of the stay in the
 Brig depends on the law level. Tau Station is super paranoid, and you
 can't ever attack somebody successfully there (with the exception
 of random encounters in the Ruins).
@@ -550,7 +555,7 @@ range combat, while knifes and improvised weapons work in short range combat.
 (A bug in the game engine lets you successfully use short-range weapons
 in long-range combat, this is likely to change).
 
-After completing the appropriate University courses, you also have slots
+After completing the *Intermediate Combat* University courses, you also have slots
 available on your belt, where you can equip stims that let you boost a stat
 that is running low.
 
@@ -602,22 +607,22 @@ not of higher tiers.
 
 You can obtain weapons in the following ways:
 
-* You can find them while scavenging in the Ruins.
-* Successful combat from random encounters in the Ruins can also reward
+* Successful combat from random encounters in the Ruins often rewards
   you with weapons or armor.
-* Some missions give you a weapon as reward.
 * Sometimes Discreet Work gives you a weapon as reward.
+* Some missions give you a weapon as reward.
 * Discreet Work often involves stealing or finding a weapon, and delivering it
   to somebody else. You can steal the weapon you are meant to deliver.
 * You can buy them at the Public Market
 * You can buy them at vendors, where the offering differs from station to
   station. The [item list on TauHead](https://www.tauhead.com/item/list) gives
   a convenient overview which weapon can be bought were.
+* You can find items while scavenging in the Ruins.
 
 ### Weapons Maintenance
 
 Weapons and armor can be damaged during fights. When the fight is over, you
-can either repair it yourself, or pay for repair.
+can either repair it yourself if you have completed at least the basic *Item Repair* University course, or pay for repair.
 
 You can repair your weapons everywhere, but the hotel room is the best choice.
 Go to your inventory, then unequip the weapon, and then click on "repair". The
@@ -625,7 +630,7 @@ repair takes time, and consumes a bit of *Intelligence* and *Focus*. You can't
 do anything else while repairing. You can spend bonds to make the repair
 instantaneous.
 
-If you want to pay for repair, you first have to Port -> Shipping Bay, and then
+If you want to pay for repair, you first have to go to Port -> Shipping Bay, and then
 in the inventory, unequip, and then send it for repair. With this option,
 you can do other things in the mean time. You will be notified when the repair
 is finished. Then you can pick up the repaired item from the Shipping Bay.
