@@ -59,6 +59,22 @@ You can obtain bonds in the following ways:
 * if you level up to a new tier (if you reach levels 6 and 11),
   you get a bonds reward
 
+### Converting Bonds to Credits
+
+There is no way to convert credits to bonds.
+
+The bank offers you to convert bonds to credits at a 1:1 conversion
+rate, but that is a pretty terrible conversion rate.
+
+You get a better rate if you go the vendors at the Market, and buy
+a 3-day VIP pack for 290 bonds (which you can do once per 7 days).
+You can sell this at the Public Market for somewhere between 15,000
+and 30,000 credits (of which you need to pay 10% as market fee).
+Before you do that, ask in the chat if anybody is willing to buy it, and
+at what price point.
+
+That way, you get a conversion rate of 1 bond to 45..90 credits.
+
 ## Stats and Focus
 
 Whenever you try something, and the success is not a foregone
