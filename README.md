@@ -56,7 +56,7 @@ You can obtain bonds in the following ways:
 * as a daily reward for your career level
 * sometimes, discreet/anonymous work has a small bonds reward
 * you can find bond packages in the Ruins
-* if you level up to a new tier (if you reach levels 6 and 11),
+* if you level up to a new tier (if you reach levels 6, 11, 16, etc.),
   you get a bonds reward
 
 ### Converting Bonds to Credits
@@ -175,7 +175,7 @@ Focus.
 
 If you consume a ration of a tier one lower than your character's, the
 immediate regeneration is incomplete. A ration two tiers below your
-current tier does not give any immediate regeneration.
+current tier does gives hardly any immediate regeneration.
 
 Rations also give you the "well fed" status for 32 segments (roughly 8
 hours), which increases stats and Focus regeneration. For rations of a
@@ -190,7 +190,7 @@ following random encounters in the Ruins on high-level stations.
 
 Finally, you can spend bonds as bribes for more rations, though the
 price doubles each time you do it in one day, and drops back to the
-original price (20 bonds) at midnight.
+original price (20 bonds) 100 segments (one day) after your first bribe.
 
 ## What To Do
 
@@ -274,7 +274,7 @@ some stats replenishment).
 Upon finding an opponent in the Ruins, you have 8 segments to fight them.
 
 When you win such a fight, you can loot the opponent, which tends to give
-you on the order of 1 to 50 credits, and you gain a reward. The reward
+you on the order of 1 to 100 credits, and you gain a reward. The reward
 on lower-level stations is often a piece of armor or a weapon, and on
 higher-level stations it can be a ration.
 
@@ -282,7 +282,7 @@ You also gain experience from victorious combat, more so than from career
 tasks.
 
 After finding an opponent, you cannot engage in another random encounter
-for the next 8 segments.
+for the next 8 segments. You can halve this waiting time by spending bonds.
 
 ### Pursue a Career
 
@@ -414,7 +414,7 @@ work isn't shown while you are pursuing a mission, but if you [follow this link 
 University courses can teach you handy skills. You have to pay some
 credits to enroll in one, and can optionally spend bonds to speed them
 up. The basic courses are relatively cheap (typically around 200 credits
-and fast, while more advanced courses take much longer (up to 14 days),
+and fast, while more advanced courses take much longer (up to 21 days),
 and can cost up to several ten thousand credits.
 
 You can only be enrolled in one course at a time, and you cannot abort a
@@ -575,7 +575,8 @@ in long-range combat, this is likely to change).
 
 After completing the *Intermediate Combat* University courses, you also have slots
 available on your belt, where you can equip stims that let you boost a stat
-that is running low.
+that is running low. But be careful, they also raise your toxin levels, and
+when those reach 100%, it's off to Sick Bay.
 
 The success of an attack depends on the physical stats (mostly Agility,
 I think), the accuracy of the weapon, and combat skills (which can be
@@ -733,7 +734,7 @@ current station (for which you have to pay).
 
 You can sell items for a fixed price if you go to Market and then
 Vendors (and then select the Inventory). Each item has a nominal price,
-and you get a third of that price at NPC vendors. The same vendors also
+and you get 30% of that price at NPC vendors. The same vendors also
 sell items, but often for much more than the nominal price (like, a
 factor of 9 or so above the nominal price).
 
@@ -796,3 +797,4 @@ are planned:
 * [TauHead](https://www.tauhead.com/) harvests encyclopedic data from the Tau Station universe.
 * This [Greasemonkey Script](https://gist.github.com/moritz/97aa186cd99daee2b63c82bc9a20bb5a) adds some navigation shortcuts to the menu, and can optionally hide buttons that spend bonds to prevent accidental spending.
 * The IRC channel `##taustation` on irc.freenode.org is a meeting point for players who find the built-in chat cumbersome.
+* There's a Tau Station [subreddit](https://www.reddit.com/r/taustation/).
