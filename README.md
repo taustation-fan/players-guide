@@ -30,7 +30,7 @@ You can earn credits through
 * side jobs
 * discreet work
 * combat, followed by looting the opponent
-* levelling up
+* leveling up
 * missions (though most missions don't pay well financially)
 
 ### Bonds
@@ -96,7 +96,7 @@ Regeneration might be slightly faster if you stay longer in your hotel room.
 
 Regeneration is slower if you are confined to the Sick Bay or the Brig.
 
-Consuming a VIP package or a ration and levelling up immediately
+Consuming a VIP package or a ration and leveling up immediately
 regenerates your stats and focus full. (With rations, the regeneration
 is only complete if the ration is of the same tier as yourself).
 
@@ -201,7 +201,7 @@ different resource requirements and payoffs.
 
 Missions are fun! You can find a mission by clicking on the "Find a
 mission" link in the "Employment" box. A mission opportunity is marked
-by the orange action flag, either in an area or next to person.
+by the orange action flag, either in an area or next to a person.
 
 During missions, you typically invest focus and some stats. After you
 have finished the missions on Tau Station, you must travel to other
@@ -219,7 +219,7 @@ to read and experience.
 Some missions also build on other missions, and you can only engage in
 the later missions if you completed the previous missions successfully.
 
-I advice to play all missions available to you.
+I advise to play all missions available to you.
 
 ### Ruins Scavenging
 
@@ -298,7 +298,7 @@ one that sounded best. You should be more strategic in your choice.
 The first factor you should consider is the primary and secondary stat
 associated with the career tasks. You should favor a career that makes
 use of Intelligence, because in the context of University courses, it
-makes sense to boost that stat anyway. You should also chose a career
+makes sense to boost that stat anyway. You should also choose a career
 whose stats overlap with the strong stats of your genotype.
 
 All else being equal, you should avoid careers whose tasks make heavy
@@ -568,7 +568,7 @@ You can wear an armour suit, and equip up to two weapons. There are three
 kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
 accuracy, and one or sometimes two kinds of damage they make. There is also
 long range and shot range combat, and gun-like weapons are suited for long
-range combat, while knifes and improvised weapons work in short range combat.
+range combat, while knives and improvised weapons work in short range combat.
 
 (A bug in the game engine lets you successfully use short-range weapons
 in long-range combat, this is likely to change).
@@ -631,7 +631,7 @@ You can obtain weapons in the following ways:
 * Some missions give you a weapon as reward.
 * Discreet Work often involves stealing or finding a weapon, and delivering it
   to somebody else. You can steal the weapon you are meant to deliver.
-* You can buy them at the Public Market
+* You can buy them at the Public Market.
 * You can buy them at vendors, where the offering differs from station to
   station. The [item list on TauHead](https://www.tauhead.com/item/list) gives
   a convenient overview which weapon can be bought were.
@@ -731,7 +731,7 @@ current station (for which you have to pay).
 
 ### Selling Items to Vendors
 
-You can send items for a fixed price if you go to Market and then
+You can sell items for a fixed price if you go to Market and then
 Vendors (and then select the Inventory). Each item has a nominal price,
 and you get a third of that price at NPC vendors. The same vendors also
 sell items, but often for much more than the nominal price (like, a
@@ -740,7 +740,7 @@ factor of 9 or so above the nominal price).
 ### Selling Items on the Public Market
 
 The *Public Market* allows you to sell items to other players. You can
-select an item for sell, and defined a price. You have to pay 10% of the
+select an item for sale, and define a price. You have to pay 10% of the
 selling price up-front, which covers shipping fees as well. If a player
 buys it within three days, you will receive the asking price directly to
 your bank account. Otherwise, you can pick up the item after three days
@@ -756,7 +756,7 @@ Some random bits of advice on how to make the most of out Tau Station:
  * Equip the best weapons and armor that you find
  * Store or sell the rest, depending on how badly you need the money
 * As soon as you have reached level 3, strive to spend most of your time on higher-level stations; training your stats is more efficient there, and you find more valuable things in the ruins. 
-* When you are not actively playing, spend your time in a hotel room, which speeds up stats and focus regeneration, and keeps you save from attacks.
+* When you are not actively playing, spend your time in a hotel room, which speeds up stats and focus regeneration, and keeps you safe from attacks.
 * Missions, Discreet Work and training your stats require more Focus than career tasks and ruins scavenging; so if you are on VIP packs occasionally, do the first-mentioned kinds of things preferably while on VIP, and focus on your career and ruins searching while not a VIP.
 * The Sol Jump Gate has a mission ("The Sleepless Ship") that takes you
   to Alpha Centauri, so only engage in that mission when you are ready
