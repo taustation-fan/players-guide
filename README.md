@@ -474,14 +474,15 @@ The following modules are available, grouped by station:
     * Business: Bureaucracy
     * Combat: Combat Basics, Intermediate Combat, Defensive Tactics
     * Engineering: Basic Engineering
+    * Spaceship Operation: Technology, Navigation
 * Nouveau Limoges (Sol; Gaule)
     * Engineering: Basic Engineering
     * Medicine: First Aid, Anatomy
     * Psychology: International Relations
-    * Spaceship Operations
+    * Spaceship Operation: Technology, Navigation
 * Moissan Station (Alpha Centauri; Gaule)
     * Medicine: First Aid
-    * Ship Handling
+    * Spaceship Operation: Ship Handling
 * Spirit of Botswana (Alpha Centauri, Consortium)
     * Combat: Combat Basics, Special Ops
 
