@@ -197,8 +197,11 @@ Training can lead to injury (and thus unconsciousness or time at the
 Sick Bay) if your stats are too low. Each gym has a minimal sum of
 combined physical stats that you need to avoid injury, starting with 30
 at Tau Station and going up to 39 at Bordeaux and Yards of Gadani.
-Similar limits (though not explicitly denoted) apply to training of the
+Slightly higher limits (though not explicitly denoted) apply to training of the
 social and the intelligence stat.
+
+If you are repeatedly injured or becoming unconscious or detained from
+training, go back to a lower-level station.
 
 Stats can also randomly increase as a bonus of successfully completed
 discreet work.
