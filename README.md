@@ -440,8 +440,10 @@ The following modules are available, grouped by station:
     * Engineering: Basic Engineering
     * Medicine: First Aid, Anatomy
     * Psychology: International Relations
+    * Spaceship Operations
 * Moissan Station (Alpha Centauri; Gaule)
     * Medicine: First Aid
+    * Ship Handling
 * Spirit of Botswana (Alpha Centauri, Consortium)
     * Combat: Combat Basics, Special Ops
 
