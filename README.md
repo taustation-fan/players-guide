@@ -474,17 +474,18 @@ The following modules are available, grouped by station:
     * Business: Bureaucracy
     * Combat: Combat Basics, Intermediate Combat, Defensive Tactics
     * Engineering: Basic Engineering
-    * Spaceship Operation: Technology, Navigation
+    * Spaceship Operations: Navigation, Technology
 * Nouveau Limoges (Sol; Gaule)
     * Engineering: Basic Engineering
     * Medicine: First Aid, Anatomy
     * Psychology: International Relations
-    * Spaceship Operation: Technology, Navigation
+    * Spaceship Operations: Navigation, Technology
 * Moissan Station (Alpha Centauri; Gaule)
     * Medicine: First Aid
-    * Spaceship Operation: Ship Handling
+    * Spaceship Operations: Navigation, Technology
 * Spirit of Botswana (Alpha Centauri, Consortium)
     * Combat: Combat Basics, Special Ops
+    * Spaceship Operations: Navigation, Technology, Ship Handling
 
 Most courses only have negligible benefits on their own, but if you finish
 several related courses, the compound effect is typically noticeable.
