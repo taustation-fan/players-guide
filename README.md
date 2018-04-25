@@ -1,5 +1,43 @@
 # An Introduction to Tau Station
 
+# Table of Contents
+   * [An Introduction to Tau Station](#an-introduction-to-tau-station)
+      * [The Financial System](#the-financial-system)
+         * [Credits](#credits)
+         * [Bonds](#bonds)
+         * [Converting Bonds to Credits](#converting-bonds-to-credits)
+      * [Stats and Focus](#stats-and-focus)
+         * [Stats Regeneration](#stats-regeneration)
+         * [Stats Improvement](#stats-improvement)
+      * [Rations](#rations)
+      * [What To Do](#what-to-do)
+         * [Missions](#missions)
+         * [Ruins Scavenging](#ruins-scavenging)
+         * [Random Encounters in the Ruins](#random-encounters-in-the-ruins)
+         * [Pursue a Career](#pursue-a-career)
+            * [Choosing Your Career](#choosing-your-career)
+            * [Advancing Your Career](#advancing-your-career)
+         * [Side Jobs](#side-jobs)
+         * [Discreet Work](#discreet-work)
+            * [Discreet Work Tips and Tricks](#discreet-work-tips-and-tricks)
+      * [University Courses](#university-courses)
+      * [VIP Packs](#vip-packs)
+      * [Travel](#travel)
+      * [Player and Station Levels](#player-and-station-levels)
+      * [Combat](#combat)
+         * [Choice of Weapons](#choice-of-weapons)
+         * [Weapons Maintenance](#weapons-maintenance)
+      * [Clones](#clones)
+      * [Shipping and Selling Items](#shipping-and-selling-items)
+         * [Shipping Items](#shipping-items)
+         * [Selling Items to Vendors](#selling-items-to-vendors)
+         * [Selling Items on the Public Market](#selling-items-on-the-public-market)
+   * [Tactics, Strategy and Advice](#tactics-strategy-and-advice)
+   * [Planned Features](#planned-features)
+   * [Resources](#resources)
+
+<!-- Created by gh-md-toc, https://github.com/ekalinin/github-markdown-toc -->
+
 [Tau Station](https://alpha.taustation.space/) is a text-based online Massive Multiplayer Role-Playing Game (MMORPG) set
 in the future in space, in a post-catastrophic environment.
 
