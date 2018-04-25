@@ -24,6 +24,7 @@
       * [VIP Packs](#vip-packs)
       * [Travel](#travel)
       * [Player and Station Levels](#player-and-station-levels)
+      * [Tiers](#tiers)
       * [Combat](#combat)
          * [Choice of Weapons](#choice-of-weapons)
          * [Weapons Maintenance](#weapons-maintenance)
@@ -566,9 +567,6 @@ to the next level. On leveling up, you receive a small bonus in credits,
 and immediately regenerate all stats and Focus.
 Levels are capped to 25.
 
-Each block of five levels is called a *tier*, and ascending to a higher
-tier (so from level 5 to 6, or from 10 to 11 etc.) also gives a bonus of 500 bonds.
-
 Leveling up also gives you access to more missions, which have minimal
 player levels as prerequisites.
 
@@ -590,6 +588,19 @@ also offer higher rewards
 
 All of these factors combined mean that, as long as you are not playing
 missions, it usually makes sense to spend your time on higher-level stations.
+
+## Tiers
+
+Each block of five levels is called a *tier*, and ascending to a higher
+tier (so from level 5 to 6, or from 10 to 11 etc.) gives a bonus of 500 bonds.
+
+You cannot equip items of a tier higher than your player, so a tier 1 player
+cannot equip a tier 2 or tier 3 weapon or armor. Carrying, storing and selling
+items of higher tiers works fine.
+
+The daily rations you receive at the Government Center correspond to
+your own tier. Consuming rations of lower tiers gives you smaller
+immediate stats refills, and shorter "Well Fed" times.
 
 ## Combat
 
