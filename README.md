@@ -457,7 +457,9 @@ and fast, while more advanced courses take much longer (up to 21 days),
 and can cost up to several ten thousand credits.
 
 You can only be enrolled in one course at a time, and you cannot abort a
-course that you started.
+course that you started. Travel, Sick Bay and Brig do not affect University
+courses, which just go continue in those circumstances (though may
+delay the completion of a course until you are free to move again).
 
 In the beginning, you can likely only afford basic courses, so you
 should enroll in those.
@@ -533,8 +535,8 @@ local shuttles. If you want to travel to a station in another star
 system, you first need to travel to a jump gate, from there to the other
 star system's jump gate, and from there to the station you want.
 
-Travel depends on the distance between stations, which varies depending
-on the current orbital positions.
+Travel cost and duration depends on the distance between stations, which
+varies depending on the current orbital positions.
 
 While traveling, you can't do anything except training intelligence.
 During the journey,
@@ -550,6 +552,10 @@ You need a Gaule visa for visiting stations under the Gaule government
 buy a Gaule visa at any station's Gov't center. Otherwise, you need to
 buy it a Gaule Embassy on Tau Station (Sol) or Spirit of Botswana (Alpha
 Centauri).
+
+You can continue your career on any station that has areas where you
+can perform career tasks, without any additional bureaucracy. During
+travel, University courses also continue to progress.
 
 ## Player and Station Levels
 
