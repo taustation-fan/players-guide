@@ -618,7 +618,10 @@ for when Security forces will likely arrive.
 
 When you try to attack somebody, there is a chance that Security detains
 you on the spot. The chance depends on the Orwellian level of the station (which you
-can find in the Government Center). If you are caught, the length of the stay in the
+can find in the Government Center). Disabling the security cameras in an
+area reduces the chance of getting caught.
+
+If you are caught, the length of the stay in the
 Brig depends on the law level. Tau Station is super paranoid, and you
 can't ever attack somebody successfully there (with the exception
 of random encounters in the Ruins).
@@ -648,6 +651,9 @@ zero, the loser becomes unconscious, and can be looted by the winner.
 On stations with a Sick Bay, the loser can then recover in the Sick Bay.
 On stations without a Sick Bay, this can be the death of the character's
 body. Which hopefully triggers the activation of a clone.
+
+You can practice combat by going to the Ruins and using the "Look for
+trouble" feature.
 
 ### Choice of Weapons
 
