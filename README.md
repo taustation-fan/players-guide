@@ -114,6 +114,23 @@ at what price point.
 
 That way, you get a conversion rate of 1 bond to 45..90 credits.
 
+If you don't have enough money to afford the seller's fee on the market,
+you can try to find a potential buyer for the VIP pack in the chat, and
+maybe they'll help you.
+
+The process goes something like this:
+
+* The two of you agree on a price for the VIP pack
+* You find or buy an insignificant item like a Capacitor or Beer Bottles
+* You put it up on the Public Market for 1/10th of the agreed-upon price
+* The designated buyer buys the item from the Public Market
+
+If you don't even have a 1/100th of the agreed-upon price, you might
+need to conduct this process twice.
+
+Of course, this process requires that the designated buyer trusts you
+not to run away with the money before the final VIP pack sale.
+
 ## Stats and Focus
 
 Whenever you try something, and the success is not a foregone
