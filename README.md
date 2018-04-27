@@ -107,7 +107,7 @@ From your wallet, you pay most of your everyday purchases, with
 the exception of things you buy from the Public Market (which
 directly withdraws from your bank account).
 
-Credits from your wallet can be looted if somebody wins a fight without
+Credits from your wallet can be looted if somebody wins a fight against
 you, and are lost if your character dies.
 
 Bonds are always kept in the bank, but you can pay them directly without
