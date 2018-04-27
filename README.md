@@ -98,6 +98,26 @@ You can obtain bonds in the following ways:
 * if you level up to a new tier (if you reach levels 6, 11, 16, etc.),
   you get a bonds reward
 
+### Banks and Your Wallet
+
+You can have credits in your wallet and in your bank account.
+
+From your wallet, you pay most of your everyday purchases, with
+the exception of things you buy from the Public Market (which
+directly withdraws from your bank account).
+
+Credits from your wallet can be looted if somebody wins a fight without
+you, and are lost if your character dies.
+
+Bonds are always kept in the bank, but you can pay them directly without
+visiting the bank.
+
+At your home branch, withdrawing credits is free. At other branches,
+the withdrawal fee is 3%, or 1% if you are VIP. You can transfer your
+home branch to any Consortium station, for a fee.
+
+Deposits are free at any bank.
+
 ### Converting Bonds to Credits
 
 There is no way to convert credits to bonds.
@@ -152,9 +172,11 @@ Regeneration might be slightly faster if you stay longer in your hotel room.
 
 Regeneration is slower if you are confined to the Sick Bay or the Brig.
 
-Consuming a VIP package or a ration and leveling up immediately
-regenerates your stats and focus full. (With rations, the regeneration
-is only complete if the ration is of the same tier as yourself).
+The following things immediately fill your stats and Focus:
+
+* consuming a VIP package
+* consuming a [ration](#rations) of your own [tier](#tier) or above
+* leveling up
 
 The following recovery rates have been compiled by mostly [Shadow and Dotsent](https://alpha.taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/197-53-01-501-stat-recovery):
 
