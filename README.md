@@ -5,6 +5,7 @@
       * [The Financial System](#the-financial-system)
          * [Credits](#credits)
          * [Bonds](#bonds)
+         * [Banks and Your Wallet](#banks-and-your-wallet)
          * [Converting Bonds to Credits](#converting-bonds-to-credits)
       * [Stats and Focus](#stats-and-focus)
          * [Stats Regeneration](#stats-regeneration)
