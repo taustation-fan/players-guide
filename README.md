@@ -599,6 +599,13 @@ You can continue your career on any station that has areas where you
 can perform career tasks, without any additional bureaucracy. During
 travel, University courses also continue to progress.
 
+**Station/Area Matrix**
+
+![station/area matrix](./station-area-matrix.png)
+
+Blue: Consortium  
+Red: Gaule
+
 ## Player and Station Levels
 
 All players start from level 1, and gain experience through
