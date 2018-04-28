@@ -328,9 +328,8 @@ to a different area of the station reduces the physical stats.
 If you are at 100% encumbered, you will be losing 10% of each of the
 physical stats with every move to the different area of the station.
 If one of your physical stats reaches 0 because of encumbrance, you will
-lose consciousness and be taken to Sick Bay (you may even die if the station
-does not have a Sick Bay!), so try to offload heavy items at the first 
-opportunity.
+lose consciousness and be taken to Sick Bay (or simply become unconscious),
+so try to offload heavy items at the first opportunity.
 
 If you don't want to carry around stuff, you can sell it to the vendors,
 (go to Market -> Vendors and then to your Inventory), to other players
