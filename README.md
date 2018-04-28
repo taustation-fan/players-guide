@@ -481,6 +481,10 @@ rare weapons, rations, bond packages or VIP packs, this is usually worth it.
 Despite the disclaimer of potential danger, Discreet Work has never
 brought me into the Sick Bay or the Brig.
 
+Discreet Work tasks consume 20% of a stat if it is "Average", and 5%
+if it is "Exceptional". Failed tasks do not consume any Focus,
+successful tasks  consume 10%.
+
 #### Discreet Work Tips and Tricks
 
 * Don't try to be clever when doing Discreet Work; for example, what it
