@@ -552,6 +552,10 @@ to do things (so corresponds to an increased *Social* skill).
 The *Item Repair* courses from the *Engineering* module allows you to
 repair weapon and armor on your own, instead of having to pay for it.
 
+The *Spaceship Operations* module contains *Navigation*, *Technology*
+and *Handling* To be able to purchase a ship (coming soon), you'll likely
+need (in that order): Navigation 1 and 2, Technology 1 and Handling 1.
+
 ## VIP Packs
 
 VIP packs provide many benefits, documented
