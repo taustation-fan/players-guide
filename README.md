@@ -208,11 +208,11 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 
 ### Stats Improvement
 
-Most stations (all except the jump gates) feature a Gym, where you can
+Most stations (all except the jump gates) feature a [Gym](https://alpha.taustation.space/travel/area/training), where you can
 invest focus and current stat values to train the physical stats
 (*strength*, *agility*, *stamina*).
 
-You can train *intelligence* in a similar fashion in a hotel room of an
+You can train *intelligence* in a similar fashion in a [hotel room](https://alpha.taustation.space/area/hotel-rooms/enter-room) of an
 Inn, or at a University (scroll to the very bottom of the page). Most
 stations (all except the jump gates and Moissan) have an Inn, and four
 stations have a University (Tau, Nouveau Limoges, Moissan, Spirit of
@@ -220,7 +220,7 @@ Botswana).
 
 You can also train intelligence while traveling with public shuttles.
 
-The *social* stat can be trained at the Lounge that belongs to an inn.
+The *social* stat can be trained at the [Lounge](https://alpha.taustation.space/travel/area/lounge) that belongs to an inn.
 
 The efficiency of training of any of these stats depends on the station.
 In general, higher-level stations yield better training benefits. For
